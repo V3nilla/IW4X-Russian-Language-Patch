@@ -1,0 +1,1015 @@
+VERSION				"1"
+FILENOTES			"Официальный локализованный файл IW4X"
+
+REFERENCE			MPUI_VIP_CAPS
+LANG_RUSSIAN		"VIP"
+
+REFERENCE			MENU_GTNW_DESC
+LANG_RUSSIAN		"Команды сражаются за захват ядерного груза, чтобы активировать ядерный удар."
+
+REFERENCE			MPUI_GUNGAME
+LANG_RUSSIAN		"ГОНКА ЗА ОРУЖИЕ"
+
+REFERENCE			MPUI_GUNGAME_CAPS
+LANG_RUSSIAN		"ГОНКА ЗА ОРУЖИЕ"
+
+REFERENCE			MENU_GUNGAME_DESC
+LANG_RUSSIAN		"Будьте первым, кто доминирует с каждым оружием."
+
+REFERENCE			MPUI_SHARPSHOOTER
+LANG_RUSSIAN		"Стрелок"
+
+REFERENCE			MPUI_SHARPSHOOTER_CAPS
+LANG_RUSSIAN		"СТРЕЛОК"
+
+REFERENCE			MENU_SHARPSHOOTER
+LANG_RUSSIAN		"Все игроки получают одинаковое оружие, выбирается рандомно. Каждые 45 секунд выбирается рандомное оружие которое будут использовать все игроки"
+
+REFERENCE			MPUI_OITC
+LANG_RUSSIAN		"Один Патрон"
+
+REFERENCE			MPUI_OITC_CAPS
+LANG_RUSSIAN		"ОДИН ПАТРОН"
+
+REFERENCE			MENU_OITC_DESC
+LANG_RUSSIAN		"Получайте боеприпасы, уничтожая врагов. Побеждает наивысший балл."
+
+REFERENCE			MPUI_CONF
+LANG_RUSSIAN		"Убийство подтверждено"
+
+REFERENCE			MPUI_CONF_CAPS
+LANG_RUSSIAN		"УБИЙСТВО ПОДТВЕРЖДЕНО"
+
+REFERENCE			MENU_CONF
+LANG_RUSSIAN		"Забирайте жетоны противников и ваших союзников чтобы получить более высокий счет"
+
+REFERENCE			CONF_GAME_DESC
+LANG_RUSSIAN		"Собирайте жетоны чтобы выиграть"
+
+REFERENCE			MPUI_INF
+LANG_RUSSIAN		"Зараженный"
+
+REFERENCE			MPUI_INF_CAPS
+LANG_RUSSIAN		"Зараженный"
+
+REFERENCE			MENU_INF
+LANG_RUSSIAN		"Убитые союзники становятся заражёнными! Заразите всех или выживите чтобы победить"
+
+REFERENCE			INF_GAME_DESC
+LANG_RUSSIAN		"Убитые союзники становятся заражёнными! Заразите всех или выживите чтобы победить"
+
+REFERENCE			INF_WAIT_FOR_PLAYERS
+LANG_RUSSIAN		"Ожидание игроков..."
+
+REFERENCE			INF_COUNTDOWN
+LANG_RUSSIAN		"Отсчет до заражения: "
+
+REFERENCE			INF_ALLIES_ELIM
+LANG_RUSSIAN		"Выжившие уничтожены."
+
+REFERENCE			INF_GOT_INFECTED
+LANG_RUSSIAN		"Зараженный!"
+
+REFERENCE			INF_LAST_ALIVE
+LANG_RUSSIAN		"Последний в живых!"
+
+REFERENCE			INF_SURVIVOR
+LANG_RUSSIAN		"Выживший!"
+
+REFERENCE			CONF_PICKEDUP_TAGS
+LANG_RUSSIAN		"ЖЕТОН ВОЗВРАЩЕН"
+
+REFERENCE			CONF_KILL_DENIED
+LANG_RUSSIAN		"УБИЙСТВО ОТМЕНЕНО"
+
+REFERENCE			CONF_KILL_CONFIRMED
+LANG_RUSSIAN		"УБИЙСТВО ПОДТВЕРЖДЕНО"
+
+REFERENCE			MPUI_CRANKED
+LANG_RUSSIAN		"Заряженный"
+
+REFERENCE			MPUI_CRANKED_CAPS
+LANG_RUSSIAN		"ЗАРЯЖЕННЫЙ"
+
+REFERENCE			MENU_CRANKED
+LANG_RUSSIAN		"Убийства дают вам дополнительные перки, двукратное увеличение очков и ограничение по времени. Убивайте, чтобы остаться в живых!"
+
+REFERENCE			OBJECTIVES_TDEF_ATTACKER_HINT
+LANG_RUSSIAN		"Флаг захвата для бонуса команды x2."
+
+REFERENCE			OBJECTIVES_TDEF_DEFENDER_HINT
+LANG_RUSSIAN		"Флаг защиты для бонуса команды x2."
+
+REFERENCE			OBJECTIVES_TDEF
+LANG_RUSSIAN		"Захватите и удерживайте флаг, чтобы получить командный бонус за двойной результат."
+
+REFERENCE			OBJECTIVES_TDEF_SCORE
+LANG_RUSSIAN		"Захватите и удерживайте флаг, чтобы получить командный бонус за двойной результат.  Первая команда до &&1 wins."
+
+REFERENCE			OBJECTIVES_TDEF_HINT
+LANG_RUSSIAN		"Захватите и удерживайте флаг."
+
+REFERENCE			MPUI_TDEF
+LANG_RUSSIAN		"Команда Защиты"
+
+REFERENCE			MPUI_TDEF_CAPS
+LANG_RUSSIAN		"КОМАНДА ЗАЩИТЫ"
+
+REFERENCE			MENU_TDEF
+LANG_RUSSIAN		"Capture and hold the flag for a team double scoring bonus.  Not for the faint of heart.\n \n Created by Intricate."
+
+REFERENCE			WEAPON_PEACEKEEPER
+LANG_RUSSIAN		"Peacekeeper"
+
+REFERENCE			WEAPON_AK47_CLASSIC
+LANG_RUSSIAN		"AK-47 Классический"
+
+REFERENCE			WEAPON_AK47_CLASSIC_REDDOT
+LANG_RUSSIAN		"AK-47 Классический Колиматор"
+
+REFERENCE			WEAPON_AK47_CLASSIC_SILENCER
+LANG_RUSSIAN		"AK-47 Классический Глушитель"
+
+REFERENCE			WEAPON_AK47_CLASSIC_XMAGS
+LANG_RUSSIAN		"AK-47 Классический Увеличенные Магазины"
+
+REFERENCE			WEAPON_AK47_CLASSIC_ACOG
+LANG_RUSSIAN		"AK-47 Классический ACOG Прицел"
+
+REFERENCE			WEAPON_AK47_CLASSIC_FMJ
+LANG_RUSSIAN		"AK-47 Классический Экспансивные патроны"
+
+REFERENCE			WEAPON_AK47_CLASSIC_GP25
+LANG_RUSSIAN		"AK-47 Классический Подствольный Гранатомёт"
+
+REFERENCE			WEAPON_AK47_CLASSIC_BLING
+LANG_RUSSIAN		"AK-47 Классический Улучшенный"
+
+REFERENCE			WEAPON_AK74U_EXTENDED_MAGS
+LANG_RUSSIAN		"AK-74u Увеличенные Магазины"
+
+REFERENCE			WEAPON_AK74U_ACOG
+LANG_RUSSIAN		"AK-74u ACOG Прицел"
+
+REFERENCE           WEAPON_DESERTEAGLEGOLD_TACTICAL
+LANG_RUSSIAN        "Золотой Desert Eagle Тактический Нож"
+
+REFERENCE           WEAPON_DESERTEAGLEGOLD_AKIMBO
+LANG_RUSSIAN        "Двойные Золотые Desert Eagle"
+
+REFERENCE           WEAPON_DESERTEAGLEGOLD_FMJ
+LANG_RUSSIAN        "Золотой Desert Eagle Экспансивные патроны"
+
+REFERENCE           WEAPON_DESERTEAGLEGOLD_BLING
+LANG_RUSSIAN        "Золотой Desert Eagle Улучшенный"
+
+REFERENCE			MENU_RECONNECTING_TO_PARTY
+LANG_RUSSIAN		"Подключение к серверу"
+
+REFERENCE			EXE_AWAITINGGAMESTATE
+LANG_RUSSIAN		"Ожидание состояние игры"
+
+REFERENCE			MPUI_BLOC
+LANG_RUSSIAN		"Блок"
+
+REFERENCE			MPUI_BOG_SH
+LANG_RUSSIAN		"Болото"
+
+REFERENCE			MPUI_DESC_MAP_CARGOSHIP
+LANG_RUSSIAN		"Портированная карта из COD4."
+
+REFERENCE			MPUI_CARGOSHIP_SH
+LANG_RUSSIAN		"Грузовое Судно"
+
+REFERENCE			MPUI_DESC_MAP_CARGOSHIP_SH
+LANG_RUSSIAN		"Снежная версия карты - Мокрое Дело"
+
+REFERENCE			MPUI_KILLHOUSE
+LANG_RUSSIAN		"Мясорубка"
+
+REFERENCE			MPUI_DESC_MAP_KILLHOUSE
+LANG_RUSSIAN		"На этой небольшой карте обычно много игроков и идет жаркая битва."
+
+REFERENCE			MPUI_DESC_MAP_OILRIG
+LANG_RUSSIAN		"Единственный лёгкий день... Был вчера"
+
+REFERENCE			MENU_NATIVECURSOR
+LANG_RUSSIAN		"Нативный курсор"
+
+REFERENCE			MPUI_UNLOCK_STATS_CAPS
+LANG_RUSSIAN		"РАЗБЛОКИРОВАТЬ ВСЁ"
+
+REFERENCE			MPUI_UNLOCK_STATS_WARNING
+LANG_RUSSIAN		"Внимание! Данная функция разблокирует вам всё в игре, титулы, эмблемы, оружие и так далее."
+
+REFERENCE			MENU_UNLOCK_STATS
+LANG_RUSSIAN		"РАЗБЛОКИРОВАТЬ ВСЁ"
+
+REFERENCE			MENU_RESET_STATS
+LANG_RUSSIAN		"СБРОС ПРОГРЕССА"
+
+REFERENCE			MPUI_RESET_STATS_CAPS
+LANG_RUSSIAN		"СБРОС ПРОГРЕССА"
+
+REFERENCE			MPUI_RESET_STATS_WARNING
+LANG_RUSSIAN		"Внимание! Данная функция сбросит полностью ваш прогресс в игре. Думайте, что вы сейчас собираетесь сделать!"
+
+REFERENCE			MPUI_DESC_UNLOCK_STATS
+LANG_RUSSIAN		""
+
+REFERENCE			MPUI_DESC_RESET_STATS
+LANG_RUSSIAN		""
+
+REFERENCE			MPUI_NUKED
+LANG_RUSSIAN		"Nuketown"
+
+REFERENCE			MPUI_DESC_MAP_NUKED
+LANG_RUSSIAN		"Полигон для тестирования ядерного оружия во время Холодной Войны."
+
+REFERENCE			MPUI_DESC_MAP_FIRINGRANGE
+LANG_RUSSIAN		"Карта представляет собой испытательный полигон спецслужб США."
+
+REFERENCE			MPUI_RUST_LONG
+LANG_RUSSIAN		"Rust: Длинный"
+
+REFERENCE			MPUI_DESC_MAP_RUST_LONG
+LANG_RUSSIAN		"Увеличенная версия карты Rust"
+
+REFERENCE			MPUI_SHIPMENT_LONG
+LANG_RUSSIAN		"Shipment: Длинный"
+
+REFERENCE			MPUI_DESC_MAP_SHIPMENT_LONG
+LANG_RUSSIAN		"Увеличенная версия карты Shipment"
+
+REFERENCE			MPUI_BLOC_SH
+LANG_RUSSIAN		"Забытый Город"
+
+REFERENCE			MPUI_DESC_MAP_BLOC_SH
+LANG_RUSSIAN		"Модифицированная версия карты Блок из COD:Online"
+
+REFERENCE			MPUI_CRASH_TROPICAL
+LANG_RUSSIAN		"Крушение: Тропики"
+
+REFERENCE			MPUI_DESC_MAP_CRASH_TROPICAL
+LANG_RUSSIAN		"Модифицированная версия карты Крушение выполненная в тропическом стиле"
+
+REFERENCE			MPUI_ESTATE_TROPICAL
+LANG_RUSSIAN		"Estate: Тропики"
+
+REFERENCE			MPUI_DESC_MAP_ESTATE_TROPICAL
+LANG_RUSSIAN		"Модифицированная версия карты Estate выполненная в тропическом стиле"
+
+REFERENCE			MPUI_FAV_TROPICAL
+LANG_RUSSIAN		"Favela: Тропики"
+
+REFERENCE			MPUI_DESC_MAP_FAV_TROPICAL
+LANG_RUSSIAN		"Модифицированная версия карты Favela выполненная в тропическом стиле"
+
+REFERENCE			MPUI_STORM_SPRING
+LANG_RUSSIAN		"Химический Завод"
+
+REFERENCE			MPUI_DESC_MAP_STORM_SPRING
+LANG_RUSSIAN		"Модифицированная версия карты Storm, снег заместо дождя"
+
+REFERENCE			MPUI_CO_HUNTED
+LANG_RUSSIAN		"Деревня"
+
+REFERENCE			MPUI_DESC_MAP_CO_HUNTED
+LANG_RUSSIAN		"Утренняя Русская деревня"
+
+REFERENCE			MP_NEUTRAL_FLAG_DROPPED_BY
+LANG_RUSSIAN		"&&1 уронил флаг!"
+
+REFERENCE			SPLASHES_X2_BONUS
+LANG_RUSSIAN		"x2 бонус!"
+
+REFERENCE			SPLASHES_TEAM_ASSIST
+LANG_RUSSIAN		"Помощь Команды!"
+
+REFERENCE			MENU_MODS
+LANG_RUSSIAN		"Модификации"
+
+REFERENCE			MENU_MODS_CAPS
+LANG_RUSSIAN		"МОДЫ"
+
+REFERENCE			MPUI_DESC_MODS
+LANG_RUSSIAN		"Просмотрите ваши моды"
+
+REFERENCE			MENU_STORE
+LANG_RUSSIAN		"Магазин"
+
+REFERENCE			MENU_STORE_CAPS
+LANG_RUSSIAN		"МАГАЗИН"
+
+REFERENCE			MPUI_DESC_STORE
+LANG_RUSSIAN		"Просмотрите доступный загружаемый игровой контент."
+
+REFERENCE			MENU_FRIENDS
+LANG_RUSSIAN		"Друзья"
+
+REFERENCE			MENU_FRIENDS_CAPS
+LANG_RUSSIAN		"ДРУЗЬЯ"
+
+REFERENCE			MENU_PASSWORD_CAPS
+LANG_RUSSIAN		"ПАРОЛЬ"
+
+REFERENCE			PLATFORM_FRIENDS
+LANG_RUSSIAN		"Друзья ^0- ^3F"
+
+REFERENCE			PLATFORM_FRIENDS_CAPS
+LANG_RUSSIAN		"ДРУЗЬЯ ^0- ^3F"
+
+REFERENCE			MPUI_DESC_FRIENDS
+LANG_RUSSIAN		"Посмотрите, где играют ваши друзья."
+
+REFERENCE			MENU_FRIENDNOTIFY
+LANG_RUSSIAN		"Уведомления Друзей"
+
+REFERENCE			MPUI_DESC_FRIENDNOTIFY
+LANG_RUSSIAN		"Перевода нет..."
+
+REFERENCE			MPUI_DESC_OPTIONS
+LANG_RUSSIAN		"Установите ваши настройки игры."
+
+REFERENCE			MPUI_DESC_QUIT
+LANG_RUSSIAN		"Выход из игры."
+
+REFERENCE			MENU_CLOSE
+LANG_RUSSIAN		"Выход"
+
+REFERENCE			MENU_CLOSE_CAPS
+LANG_RUSSIAN		"ВЫХОД"
+
+REFERENCE			PLATFORM_CHANGE_NAME_CAPS
+LANG_RUSSIAN		"^3И^7ЗМЕНИТЬ ИМЯ"
+
+REFERENCE			MPUI_DESC_CHANGE_NAME
+LANG_RUSSIAN		"Измените ваше имя"
+
+REFERENCE			PLAYERCARDS_TITLE_EVIL_CHICKEN
+LANG_RUSSIAN		"Злая Курочка"
+
+REFERENCE			MENU_THEATER
+LANG_RUSSIAN		"Театр"
+
+REFERENCE			MENU_THEATER_CAPS
+LANG_RUSSIAN		"ТЕАТР"
+
+REFERENCE			MPUI_DESC_THEATER
+LANG_RUSSIAN		"Просмотрите ваши сыгранные матчи"
+
+REFERENCE			MENU_PLAY
+LANG_RUSSIAN		"Вопроизвести"
+
+REFERENCE			MENU_PLAY_CAPS
+LANG_RUSSIAN		"ВОСПРОИЗВЕСТИ"
+
+REFERENCE			MENU_DELETE
+LANG_RUSSIAN		"Удалить"
+
+REFERENCE			MENU_DELETE_CAPS
+LANG_RUSSIAN		"УДАЛИТЬ"
+
+REFERENCE			MPUI_DEMOS_KEEP
+LANG_RUSSIAN		"Demos to keep: "
+
+REFERENCE			MPUI_DEMOS_KEEP_CAPS
+LANG_RUSSIAN		"DEMOS TO KEEP: "
+
+REFERENCE			MPUI_AUTORECORD
+LANG_RUSSIAN		"Automatic Recording: "
+
+REFERENCE			MPUI_AUTORECORD_CAPS
+LANG_RUSSIAN		"AUTOMATIC RECORDING: "
+
+REFERENCE			MENU_SERVER_INFO_CAPS
+LANG_RUSSIAN		"ИНФОРМАЦИЯ О СЕРВЕРЕ"
+
+REFERENCE			MENU_JOIN_SERVER_CAPS
+LANG_RUSSIAN		"ВХОД В ИГРУ"
+
+REFERENCE			MENU_GAME_SETTINGS_CAPS
+LANG_RUSSIAN		"НАСТРОЙКИ ИГРЫ"
+
+REFERENCE			MENU_CHECK_FOR_UPDATES
+LANG_RUSSIAN		"^3Доступно обновление"
+
+REFERENCE			MENU_CHECK_FOR_UPDATES_CAPS
+LANG_RUSSIAN		"^3ДОСТУПНО ОБНОВЛЕНИЕ"
+
+REFERENCE			MPUI_DESC_CHECK_FOR_UPDATES
+LANG_RUSSIAN		"Проверьте вашу версию игры на наличие новой."
+
+REFERENCE			MENU_ADD_TO_FAVORITES_CAPS
+LANG_RUSSIAN		"ДОБАВИТЬ В ИЗБРАННОЕ"
+
+REFERENCE			MENU_DEL_FAVORITE_CAPS
+LANG_RUSSIAN		"УДАЛИТЬ ИЗ ИЗБРАННЫХ"
+
+REFERENCE			MPUI_DESC_LOGOUT
+LANG_RUSSIAN		"ВЫХОД."
+
+REFERENCE			PLAYERCARDS_TITLE_NO_LAST_STAND
+LANG_RUSSIAN		"Без Последнего Боя!"
+
+REFERENCE			PLATFORM_REFRESH_LIST
+LANG_RUSSIAN		"Обновить список ^0- ^3F5"
+
+REFERENCE			PLATFORM_REFRESH_LIST_CAPS
+LANG_RUSSIAN		"ОБНОВИТЬ СПИСОК ^0- ^3F5"
+
+REFERENCE			PLATFORM_REFRESH
+LANG_RUSSIAN		"Обновить ^0- ^3F5"
+
+REFERENCE			PLATFORM_REFRESH_CAPS
+LANG_RUSSIAN		"ОБНОВИТЬ ^0- ^3F5"
+
+REFERENCE			MENU_SYNC_NODES
+LANG_RUSSIAN		"Узлы Синхронизации"
+
+REFERENCE			MENU_SYNC_NODES_CAPS
+LANG_RUSSIAN		"УЗЛЫ СИНХРОНИЗАЦИИ"
+
+REFERENCE			MPUI_MAX_CLIENTS
+LANG_RUSSIAN		"Макс. Число Игроков:"
+
+REFERENCE			MPUI_MAX_CLIENTS_CAPS
+LANG_RUSSIAN		"МАКС. ЧИСЛО ИГРОКОВ:"
+
+REFERENCE			MPUI_IS_PRIVATE
+LANG_RUSSIAN		"Защищен паролем:"
+
+REFERENCE			MPUI_IS_PRIVATE_CAPS
+LANG_RUSSIAN		"ЗАЩИЩЕН ПАРОЛЕМ:"
+
+REFERENCE			MPUI_VERSION
+LANG_RUSSIAN		"Версия:"
+
+REFERENCE			MPUI_VERSION_CAPS
+LANG_RUSSIAN		"ВЕРСИЯ:"
+
+REFERENCE			MPUI_MOD
+LANG_RUSSIAN		"Мод:"
+
+REFERENCE			MPUI_MOD_CAPS
+LANG_RUSSIAN		"МОД:"
+
+REFERENCE			MP_PICKUP_C4
+LANG_RUSSIAN		"Нажмите и удерживайте ^3[{+activate}]^7 чтобы взять C4"
+
+REFERENCE			MP_PICKUP_CLAYMORE
+LANG_RUSSIAN		"Нажмите и удерживайте ^3[{+activate}]^7 чтобы взять мину Клэймор"
+
+REFERENCE			WEAPON_FAL_GL
+LANG_RUSSIAN		"FAL Подствольный Гранатомёт"
+
+REFERENCE			MENU_CUSTOM_TITLE
+LANG_RUSSIAN		"Свой Титул"
+
+REFERENCE			MENU_CUSTOM_TITLE_CAPS
+LANG_RUSSIAN		"СВОЙ ТИТУЛ"
+
+REFERENCE			MENU_FOV
+LANG_RUSSIAN		"Угол Обзора"
+
+REFERENCE			MENU_FOVSCALE
+LANG_RUSSIAN		"Масштаб Угла Обзора"
+
+REFERENCE			MENU_FOV_CAPS
+LANG_RUSSIAN		"УГОЛ ОБЗОРА: "
+
+REFERENCE			MENU_FOV_HINT_PC
+LANG_RUSSIAN		"Увеличенный угол обзора может снизить производительность игры на старых компьютерах"
+
+REFERENCE			MENU_8X
+LANG_RUSSIAN		"8x"
+
+REFERENCE			MENU_16X
+LANG_RUSSIAN		"16x"
+
+REFERENCE			MENU_FPS_0
+LANG_RUSSIAN		"ВЫКЛ: 0"
+
+REFERENCE			MENU_FPS_1
+LANG_RUSSIAN		"ВКЛ: 1"
+
+REFERENCE			MENU_FPS_2
+LANG_RUSSIAN		"ВКЛ: 2"
+
+REFERENCE			MENU_FPS_3
+LANG_RUSSIAN		"ВКЛ: 3"
+
+REFERENCE			MENU_FPS_4
+LANG_RUSSIAN		"ВКЛ: 4"
+
+REFERENCE			MENU_FPS_CAP
+LANG_RUSSIAN		"Ограничение FPS"
+
+REFERENCE			MENU_FPS_DRAW
+LANG_RUSSIAN		"Показывать FPS"
+
+REFERENCE			MENU_FPS_LABELS
+LANG_RUSSIAN		"Доп. Информация FPS"
+
+REFERENCE			MENU_SCREEN_OPTIONS
+LANG_RUSSIAN		"Настройки Экрана"
+
+REFERENCE			MENU_BORDERLESS
+LANG_RUSSIAN		"Оконный без рамки"
+
+REFERENCE			MENU_FULLSCREEN
+LANG_RUSSIAN		"Полный Экран"
+
+REFERENCE			MENU_XAXIS
+LANG_RUSSIAN		"Окно по оси X"
+
+REFERENCE			MENU_YAXIS
+LANG_RUSSIAN		"Окно по оси Y"
+
+REFERENCE			MENU_AAALPHA
+LANG_RUSSIAN		"Альфа Сглаживание"
+
+REFERENCE			MENU_AAA_DITHER
+LANG_RUSSIAN		"Размывание (Плохо)"
+
+REFERENCE			MENU_AAA_SUPER
+LANG_RUSSIAN		"Супер Сэмплированный (Хорошо)"
+
+REFERENCE			MENU_AA_MAXQUALITY
+LANG_RUSSIAN		"Качество Сглаживания"
+
+REFERENCE			MENU_SCROLL_UP
+LANG_RUSSIAN		"^3ПРОКРУТИТЬ ВВЕРХ"
+
+REFERENCE			MENU_SCROLL_DOWN
+LANG_RUSSIAN		"^3ПРОКРУТИТЬ ВНИЗ"
+
+REFERENCE			MENU_NOBORDER
+LANG_RUSSIAN		"Отключить края экрана"
+
+REFERENCE			MENU_MAXPACKETS
+LANG_RUSSIAN		"Макс. число пакетов на кадр"
+
+REFERENCE			MENU_SNAPS
+LANG_RUSSIAN		"Частота снапшота"
+
+REFERENCE			MENU_LAGOMETER
+LANG_RUSSIAN		"Показывать Лагометр"
+
+REFERENCE			MENU_DRAWFPS
+LANG_RUSSIAN		"Показывать FPS"
+
+REFERENCE			MENU_FPSLABELS
+LANG_RUSSIAN		"Доп. Информация FPS"
+
+REFERENCE			MENU_NEWCOLORS
+LANG_RUSSIAN		"Использовать новые коды цветов"
+
+REFERENCE			MENU_NEWCOLORS
+LANG_RUSSIAN		"Использовать новые коды цветов"
+
+REFERENCE			MENU_CHANGELOG
+LANG_RUSSIAN		"Изменения"
+
+REFERENCE			MENU_CHANGELOG_CAPS
+LANG_RUSSIAN		"ИЗМЕНЕНИЯ"
+
+REFERENCE			MPUI_DESC_CHANGELOG
+LANG_RUSSIAN		"Посмотреть, что нового."
+
+REFERENCE			MPUI_DESC_CHANGELOG
+LANG_RUSSIAN		"Посмотреть, что нового."
+
+REFERENCE			MPUI_DESC_NOBORDER
+LANG_RUSSIAN		"Не использовать рамки в оконном режиме."
+
+REFERENCE			MPUI_DESC_NATIVECURSOR
+LANG_RUSSIAN		"Отоброжать нативный курсор заместо игрового."
+
+REFERENCE			MPUI_DESC_FOV
+LANG_RUSSIAN		"Увеличьте ваш угол обзора."
+
+REFERENCE			MPUI_DESC_CUSTOM_TITLE
+LANG_RUSSIAN		"Изменить текст вашего титула"
+
+REFERENCE			MPUI_DESC_FOVSCALE
+LANG_RUSSIAN		"Увеличьте масштаб угла обзора, так-же изменяет наводку."
+
+REFERENCE			MPUI_DESC_NEWCOLORS
+LANG_RUSSIAN		"Использовать новые стили цветов из ^2Warfare2."
+
+REFERENCE			MPUI_DESC_AUTORECORD
+LANG_RUSSIAN		"Записывать ваши матчи автоматически."
+
+REFERENCE			MPUI_DESC_DEMOS_KEEP
+LANG_RUSSIAN		"Кол-во максимальных записанных матчей, прошлые будут удалятся."
+
+REFERENCE			MENU_MAXFPS
+LANG_RUSSIAN		"Максимальный FPS"
+
+REFERENCE			MPUI_DESC_MAXFPS
+LANG_RUSSIAN		"Измените ваше кол-во FPS."
+
+REFERENCE			MENU_SEARCHINGFORGAMES_100MS
+LANG_RUSSIAN		""
+
+REFERENCE			MP_SEARCHING_FOR_PLAYER
+LANG_RUSSIAN		"Ожидание"
+
+REFERENCE			MENU_WAITING_FOR_MORE_PLAYERS_TEAMS
+LANG_RUSSIAN		"Ожидание игроков для баланса команд"
+
+REFERENCE			MENU_GAME
+LANG_RUSSIAN		"Игра"
+
+REFERENCE			MENU_GAME_CAPS
+LANG_RUSSIAN		"ИГРА"
+
+REFERENCE			MENU_MOTD
+LANG_RUSSIAN		"Новости"
+
+REFERENCE			MENU_MOTD_CAPS
+LANG_RUSSIAN		"НОВОСТИ"
+
+REFERENCE			MENU_AUTORECORD
+LANG_RUSSIAN		"Автоматическая Запись"
+
+REFERENCE			MENU_AUTORECORD_CAPS
+LANG_RUSSIAN		"АВТОМАТИЧЕСКАЯ ЗАПИСЬ"
+
+REFERENCE			MENU_DEMOS_KEEP
+LANG_RUSSIAN		"Число макс. количества матчей"
+
+REFERENCE			MENU_DEMOS_KEEP_CAPS
+LANG_RUSSIAN		"ЧИСЛО МАКС. КОЛИЧЕСТВА МАТЧЕЙ"
+
+REFERENCE			MPUI_DEMO_AUTHOR
+LANG_RUSSIAN		"Автор:"
+
+REFERENCE			MPUI_DEMO_AUTHOR_CAPS
+LANG_RUSSIAN		"АВТОР:"
+
+REFERENCE			MPUI_DEMO_LENGTH
+LANG_RUSSIAN		"Длина:"
+
+REFERENCE			MPUI_DEMO_LENGTH_CAPS
+LANG_RUSSIAN		"ДЛИНА:"
+
+REFERENCE			MPUI_DEMO_DATE
+LANG_RUSSIAN		"Дата:"
+
+REFERENCE			MPUI_DEMO_DATE_CAPS
+LANG_RUSSIAN		"ДАТА:"
+
+REFERENCE			MPUI_DEMO_CREATED
+LANG_RUSSIAN		"Создано:"
+
+REFERENCE			MPUI_DEMO_CREATED_CAPS
+LANG_RUSSIAN		"СОЗДАНО:"
+
+REFERENCE			MENU_D3D9EX
+LANG_RUSSIAN		"Direct3D 9Ex"
+
+REFERENCE			MPUI_DESC_D3D9EX
+LANG_RUSSIAN		"Использовать Direct3D 9Ex."
+
+REFERENCE			MPUI_SECURITY_LEVEL
+LANG_RUSSIAN		"Уровень Безопасности:"
+
+REFERENCE			MPUI_SECURITY_LEVEL_CAPS
+LANG_RUSSIAN		"УРОВЕНЬ БЕЗОПАСНОСТИ:"
+
+REFERENCE			MENU_FRIEND_ADD
+LANG_RUSSIAN		"Добавить Друга"
+
+REFERENCE			MENU_FRIEND_ADD_CAPS
+LANG_RUSSIAN		"ДОБАВИТЬ ДРУГА"
+
+REFERENCE			MPUI_NA
+LANG_RUSSIAN		"^3Недоступно в данный момент."
+
+REFERENCE			EXE_PROGRESS
+LANG_RUSSIAN		"Прогресс:"
+
+REFERENCE			MPUI_DOWNLOADING
+LANG_RUSSIAN		"Скачивание"
+
+REFERENCE			MPUI_DOWNLOADING_CAPS
+LANG_RUSSIAN		"СКАЧИВАНИЕ"
+
+REFERENCE			MPUI_SECURITY_INCREASE_MESSAGE
+LANG_RUSSIAN		"Увеличиваем уровень безопасности с %d до %d (est. %s)"
+
+REFERENCE			MPUI_SECURITY_NEW_LEVEL_MESSAGE
+LANG_RUSSIAN		"Ваш новый уровень безопасности это %d"
+
+REFERENCE			MPUI_SECURITY_LEVEL_MESSAGE
+LANG_RUSSIAN		"Ваш уровень безопасности это %d"
+
+REFERENCE			ERR_INVALID_CONNECT_PACKET
+LANG_RUSSIAN		"Invalid connect packet!"
+
+REFERENCE			ERR_INVALID_INFOSTRING_DATA
+LANG_RUSSIAN		"Invalid infostring data!"
+
+REFERENCE			ERR_INVALID_CONNECT_DATA
+LANG_RUSSIAN		"Invalid connect data!"
+
+REFERENCE			ERR_INVALID_CONNECT_STRING
+LANG_RUSSIAN		"Invalid connect string!"
+
+REFERENCE			ERR_XUID_CERTIFICATE_MISMATCH
+LANG_RUSSIAN		"XUID не совпадает с сертификатом!"
+
+REFERENCE			ERR_INVALID_CHALLENGE_SIGNATURE
+LANG_RUSSIAN		"Подпись запроса была недействительной!"
+
+REFERENCE			PATCH_DLC1
+LANG_RUSSIAN		"Stimulus Pack"
+
+REFERENCE			PATCH_DESC_DLC1
+LANG_RUSSIAN		"The Modern Warfare 2 Stimulus Package delivers additional action-packed multiplayer maps, including brand-new battlegrounds and legendary fan-favorites from Call of Duty 4: Modern Warfare."
+
+REFERENCE			PATCH_DLC2
+LANG_RUSSIAN		"Resurgence Pack"
+
+REFERENCE			PATCH_DESC_DLC2
+LANG_RUSSIAN		"The Modern Warfare 2 Resurgence Pack delivers five incredible new multiplayer maps. Take the action to exciting new locations, then battle across legendary landscapes from Call of Duty 4: Modern Warfare."
+
+REFERENCE			PATCH_DLC3
+LANG_RUSSIAN		"Nuketown"
+
+REFERENCE			PATCH_DESC_DLC3
+LANG_RUSSIAN		"Nuketown is an iconic multiplayer map featured in Call of Duty: Black Ops with a heavy emphasis on extremely close-quarters combat."
+
+REFERENCE			PATCH_DLC4
+LANG_RUSSIAN		"Classics Pack #1"
+
+REFERENCE			PATCH_DESC_DLC4
+LANG_RUSSIAN		"The Modern Warfare 2 Classics Pack delivers three beloved maps from Call of Duty 4: Modern Warfare."
+
+REFERENCE			PATCH_DLC5
+LANG_RUSSIAN		"Classics Pack #2"
+
+REFERENCE			PATCH_DESC_DLC5
+LANG_RUSSIAN		"The second Modern Warfare 2 Classics Pack adds two more fantastic maps from Call of Duty 4: Modern Warfare to your collection."
+
+REFERENCE			PATCH_DLC6
+LANG_RUSSIAN		"Freighter"
+
+REFERENCE			PATCH_DESC_DLC6
+LANG_RUSSIAN		"Freighter is a snow covered version of the Call of Duty 4: Modern Warfare map Wet Work."
+
+REFERENCE			PATCH_DLC7
+LANG_RUSSIAN		"Resurrection Pack"
+
+REFERENCE			PATCH_DESC_DLC7
+LANG_RUSSIAN		"The Modern Warfare 2 Resurrection Pack brings three more maps into your battleground."
+
+REFERENCE			PATCH_DLC8
+LANG_RUSSIAN		"Recycled Pack"
+
+REFERENCE			PATCH_DESC_DLC8
+LANG_RUSSIAN		"Too much 'pew pew' not enough new new. - R. Bowling"
+
+REFERENCE			MENU_STREAMFRIENDLY_UI
+LANG_RUSSIAN		"Показывать интерфейс друзей"
+
+REFERENCE			MPUI_DESC_STREAM_FRIENDLY_UI
+LANG_RUSSIAN		"Скрыть информацию о сервере и уведомления от друзей."
+
+REFERENCE			QUICKMESSAGE_QUICK_MESSAGE
+LANG_RUSSIAN		"Быстрые сообщения"
+
+REFERENCE			QUICKMESSAGE_1_COMMANDS
+LANG_RUSSIAN		"1. Команды"
+
+REFERENCE			QUICKMESSAGE_2_STATEMENTS
+LANG_RUSSIAN		"2. Высказывания"
+
+REFERENCE			QUICKMESSAGE_3_RESPONSES
+LANG_RUSSIAN		"3. Ответы"
+
+REFERENCE			QUICKMESSAGE_ESC_EXIT
+LANG_RUSSIAN		"Esc. Выход"
+
+REFERENCE			QUICKMESSAGE_1_FOLLOW_ME
+LANG_RUSSIAN		"1. За мной!"
+
+REFERENCE			QUICKMESSAGE_2_MOVE_IN
+LANG_RUSSIAN		"2. Двигаемся!"
+
+REFERENCE			QUICKMESSAGE_3_FALL_BACK
+LANG_RUSSIAN		"3. Отступаем!"
+
+REFERENCE			QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_RUSSIAN		"4. Смотрите за огнём!"
+
+REFERENCE			QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_RUSSIAN		"5. Атакуем левый фланг!"
+
+REFERENCE			QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_RUSSIAN		"6. Атакуем правый фланг!"
+
+REFERENCE			QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_RUSSIAN		"7. Удерживайте эту позицию!"
+
+REFERENCE			QUICKMESSAGE_8_REGROUP
+LANG_RUSSIAN		"8. Перегруппироваться!"
+
+REFERENCE			QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_RUSSIAN		"1. Контакт!"
+
+REFERENCE			QUICKMESSAGE_2_ENEMY_DOWN
+LANG_RUSSIAN		"2. Враг повержен!"
+
+REFERENCE			QUICKMESSAGE_3_IM_IN_POSITION
+LANG_RUSSIAN		"3. На позиции."
+
+REFERENCE			QUICKMESSAGE_4_AREA_SECURE
+LANG_RUSSIAN		"4. Зона в безопасности!"
+
+REFERENCE			QUICKMESSAGE_5_GRENADE
+LANG_RUSSIAN		"5. Граната!"
+
+REFERENCE			QUICKMESSAGE_6_SNIPER
+LANG_RUSSIAN		"6. Снайпер!"
+
+REFERENCE			QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_RUSSIAN		"7. Нужно подкрепление!"
+
+REFERENCE			QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_RUSSIAN		"8. Прекратить огонь!"
+
+REFERENCE			QUICKMESSAGE_1_YES_SIR
+LANG_RUSSIAN		"1. Вас Понял."
+
+REFERENCE			QUICKMESSAGE_2_NO_SIR
+LANG_RUSSIAN		"2. Нет."
+
+REFERENCE			QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_RUSSIAN		"3. Двигаюсь."
+
+REFERENCE			QUICKMESSAGE_3_ON_MY_WAY
+LANG_RUSSIAN		"3. За мной."
+
+REFERENCE			QUICKMESSAGE_4_SORRY
+LANG_RUSSIAN		"4. Извини."
+
+REFERENCE			QUICKMESSAGE_5_GREAT_SHOT
+LANG_RUSSIAN		"5. Отличный выстрел!"
+
+REFERENCE			QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_RUSSIAN		"6. Бегом!"
+
+REFERENCE			QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_RUSSIAN		"7. Ты чокнутый?"
+
+REFERENCE			QUICKMESSAGE_FOLLOW_ME
+LANG_RUSSIAN		"За мной!"
+
+REFERENCE			QUICKMESSAGE_MOVE_IN
+LANG_RUSSIAN		"Двигаемся!"
+
+REFERENCE			QUICKMESSAGE_FALL_BACK
+LANG_RUSSIAN		"Отступаем!"
+
+REFERENCE			QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_RUSSIAN		"Смотрите за огнём!"
+
+REFERENCE			QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_RUSSIAN		"Атакуем правный фланг!"
+
+REFERENCE			QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_RUSSIAN		"Атакуем левый фланг!"
+
+REFERENCE			QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_RUSSIAN		"Удерживайте эту позицию!"
+
+REFERENCE			QUICKMESSAGE_REGROUP
+LANG_RUSSIAN		"Перегруппироваться!"
+
+REFERENCE			QUICKMESSAGE_STICK_TOGETHER
+LANG_RUSSIAN		"Держаться вместе!"
+
+REFERENCE			QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_RUSSIAN		"Отряд, атакуем правый фланг!"
+
+REFERENCE			QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_RUSSIAN		"Отряд, атакуем левый фланг!"
+
+REFERENCE			QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_RUSSIAN		"Отряд, удерживаем эту позицию!"
+
+REFERENCE			QUICKMESSAGE_SQUAD_REGROUP
+LANG_RUSSIAN		"Отряд, перегруппироваться!"
+
+REFERENCE			QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_RUSSIAN		"Отряд, двигаемся вместе!"
+
+REFERENCE			QUICKMESSAGE_ENEMY_SPOTTED
+LANG_RUSSIAN		"Контакт!"
+
+REFERENCE			QUICKMESSAGE_ENEMY_DOWN
+LANG_RUSSIAN		"Враг повержен!"
+
+REFERENCE			QUICKMESSAGE_IM_IN_POSITION
+LANG_RUSSIAN		"На позиции."
+
+REFERENCE			QUICKMESSAGE_AREA_SECURE
+LANG_RUSSIAN		"Зона в безопасности!"
+
+REFERENCE			QUICKMESSAGE_GRENADE
+LANG_RUSSIAN		"Граната!"
+
+REFERENCE			QUICKMESSAGE_ENEMY_GRENADE
+LANG_RUSSIAN		"Граната Врага!"
+
+REFERENCE			QUICKMESSAGE_SNIPER
+LANG_RUSSIAN		"Снайпер!"
+
+REFERENCE			QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_RUSSIAN		"Нужно подкрепление!"
+
+REFERENCE			QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_RUSSIAN		"Прекратить огонь!"
+
+REFERENCE			QUICKMESSAGE_YES_SIR
+LANG_RUSSIAN		"Вас Понял."
+
+REFERENCE			QUICKMESSAGE_NO_SIR
+LANG_RUSSIAN		"Нет."
+
+REFERENCE			QUICKMESSAGE_IM_ON_MY_WAY
+LANG_RUSSIAN		"Двигаюсь."
+
+REFERENCE			QUICKMESSAGE_ON_MY_WAY
+LANG_RUSSIAN		"За мной."
+
+REFERENCE			QUICKMESSAGE_SORRY
+LANG_RUSSIAN		"Извини."
+
+REFERENCE			QUICKMESSAGE_GREAT_SHOT
+LANG_RUSSIAN		"Отличный Выстрел!"
+
+REFERENCE			QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_RUSSIAN		"Это заняло у тебя достаточно много времени!"
+
+REFERENCE			QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_RUSSIAN		"Слишком долго!"
+
+REFERENCE			QUICKMESSAGE_YOURE_CRAZY
+LANG_RUSSIAN		"Ты чокнутый!"
+
+REFERENCE			QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_RUSSIAN		"Ты сошел с ума?"
+
+REFERENCE			QUICKMESSAGE_YOURE_NUTS
+LANG_RUSSIAN		"Ты спятил!"
+
+REFERENCE			QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_RUSSIAN		"Ты чокнутый?"
+
+REFERENCE			QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_RUSSIAN		"2. Множественный контакт!"
+
+REFERENCE			QUICKMESSAGE_5_WATCH_SIX
+LANG_RUSSIAN		"5. Будь начеку!"
+
+REFERENCE			QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_RUSSIAN		"Множественный контакт!"
+
+REFERENCE			QUICKMESSAGE_WATCH_SIX
+LANG_RUSSIAN		"Будь начеку!"
+
+REFERENCE			QUICKMESSAGE_COME_ON
+LANG_RUSSIAN		"Пошли."
+
+REFERENCE			PLATFORM_DYK_IW4_MSG40
+LANG_RUSSIAN		"Ваши матчи автоматически записываются. Мы можете просмотреть их в театре."
+
+REFERENCE			PLATFORM_DYK_IW4_MSG41
+LANG_RUSSIAN		"Не хочешь прокачиваться? Нажми на кнопку разблокировки в казарме."
+
+REFERENCE			PLATFORM_DYK_IW4_MSG42
+LANG_RUSSIAN		"Проверьте магазин на наличие нового загружаемого контента."
+
+REFERENCE			PLATFORM_DYK_IW4_MSG43
+LANG_RUSSIAN		"Вы можете увеличить угол обзора в настройках графики."
+
+REFERENCE			PLATFORM_DYK_IW4_MSG44
+LANG_RUSSIAN		"Если вы любите этот сервер, вы можете добавить его в избранное."
+
+REFERENCE			PERKS_PAINKILLER
+LANG_RUSSIAN		"Заряженный"
+
+REFERENCE			PERKS_DESC_COMBATHIGH
+LANG_RUSSIAN		"Двигайтесь быстрее на несколько секунд после возрождения."
+
+REFERENCE			PERKS_COMBATHIGH
+LANG_RUSSIAN		"Заряженный"
+
+REFERENCE			SPLASHES_COMBATHIGH_DESC
+LANG_RUSSIAN		"Двигайтесь быстрее на несколько секунд после возрождения."
+
+ENDMARKER
