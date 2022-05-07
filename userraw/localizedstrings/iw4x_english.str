@@ -548,7 +548,7 @@ REFERENCE			MENU_NOBORDER
 LANG_RUSSIAN		"Îòêëþ÷èòü êðàÿ ýêðàíà"
 
 REFERENCE			MENU_MAXPACKETS
-LANG_RUSSIAN		"Ìàêñ. ÷èñëî ïàêåòîâ íà êàäð"
+LANG_RUSSIAN		"×èñëî ïàêåòîâ íà êàäð"
 
 REFERENCE			MENU_SNAPS
 LANG_RUSSIAN		"×àñòîòà ñíàïøîòà"
@@ -563,10 +563,10 @@ REFERENCE			MENU_FPSLABELS
 LANG_RUSSIAN		"Äîï. Èíôîðìàöèÿ FPS"
 
 REFERENCE			MENU_NEWCOLORS
-LANG_RUSSIAN		"Èñïîëüçîâàòü íîâûå êîäû öâåòîâ"
+LANG_RUSSIAN		"Íîâûå êîäû öâåòîâ"
 
-REFERENCE			MENU_NEWCOLORS
-LANG_RUSSIAN		"Èñïîëüçîâàòü íîâûå êîäû öâåòîâ"
+REFERENCE			MENU_COLORBLIND_MODE
+LANG_RUSSIAN		"Ðåæèì Äàëüòîíèêà"
 
 REFERENCE			MENU_CHANGELOG
 LANG_RUSSIAN		"Èçìåíåíèÿ"
@@ -773,7 +773,7 @@ REFERENCE			PATCH_DESC_DLC8
 LANG_RUSSIAN		"Too much 'pew pew' not enough new new. - R. Bowling"
 
 REFERENCE			MENU_STREAMFRIENDLY_UI
-LANG_RUSSIAN		"Ïîêàçûâàòü èíòåðôåéñ äðóçåé"
+LANG_RUSSIAN		"Èíòåðôåéñ äðóçåé"
 
 REFERENCE			MPUI_DESC_STREAM_FRIENDLY_UI
 LANG_RUSSIAN		"Ñêðûòü èíôîðìàöèþ î ñåðâåðå è óâåäîìëåíèÿ îò äðóçåé."
@@ -1025,7 +1025,10 @@ REFERENCE           MENU_GPAD_PS_CAPS
 LANG_RUSSIAN        "PlayStation"
 
 REFERENCE           MENU_SLOWDOWN_ENABLED
-LANG_RUSSIAN        "Âêëþ÷èòü çàìåäëåíèå àèì àññèñòà"
+LANG_RUSSIAN        "Àâòî-Íàâîäêà"
+
+REFERENCE           MPUI_DESC_SLOWDOWN_ENABLED
+LANG_RUSSIAN        "Âêëþ÷èòü çàìåäëåíèå àâòî-íàâîäêè"
 
 REFERENCE           MENU_GAMEPAD
 LANG_RUSSIAN        "Ãåéìïàä"
@@ -1059,6 +1062,9 @@ LANG_RUSSIAN        "^2&&1  ^7Flip icon vertically"
 
 REFERENCE           FONT_ICON_MODIFIER_LIST_BIG
 LANG_RUSSIAN        "^2&&1  ^7Bigger icon"
+
+REFERENCE           MENU_LOCKON_ENABLED
+LANG_RUSSIAN        "Çàêðåïèòü êàìåðó"
 
 REFERENCE           MPUI_DESC_LOCKON_ENABLED
 LANG_RUSSIAN        "Çàêðåïèòü êàìåðó ãåéìïàäà íà èãðîêå(âêë/âûêë)"
