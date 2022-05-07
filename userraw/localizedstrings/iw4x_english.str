@@ -1,119 +1,119 @@
 VERSION				"1"
-FILENOTES			"Официальный локализованный файл IW4X"
+FILENOTES			"ГЋГґГЁГ¶ГЁГ Г«ГјГ­Г»Г© Г«Г®ГЄГ Г«ГЁГ§Г®ГўГ Г­Г­Г»Г© ГґГ Г©Г« IW4X"
 
 REFERENCE			MPUI_VIP_CAPS
 LANG_RUSSIAN		"VIP"
 
 REFERENCE			MENU_GTNW_DESC
-LANG_RUSSIAN		"Команды сражаются за захват ядерного груза, чтобы активировать ядерный удар."
+LANG_RUSSIAN		"ГЉГ®Г¬Г Г­Г¤Г» Г±Г°Г Г¦Г ГѕГІГ±Гї Г§Г  Г§Г ГµГўГ ГІ ГїГ¤ГҐГ°Г­Г®ГЈГ® ГЈГ°ГіГ§Г , Г·ГІГ®ГЎГ» Г ГЄГІГЁГўГЁГ°Г®ГўГ ГІГј ГїГ¤ГҐГ°Г­Г»Г© ГіГ¤Г Г°."
 
 REFERENCE			MPUI_GUNGAME
-LANG_RUSSIAN		"ГОНКА ЗА ОРУЖИЕ"
+LANG_RUSSIAN		"ГѓГЋГЌГЉГЂ Г‡ГЂ ГЋГђГ“Г†Г€Г…"
 
 REFERENCE			MPUI_GUNGAME_CAPS
-LANG_RUSSIAN		"ГОНКА ЗА ОРУЖИЕ"
+LANG_RUSSIAN		"ГѓГЋГЌГЉГЂ Г‡ГЂ ГЋГђГ“Г†Г€Г…"
 
 REFERENCE			MENU_GUNGAME_DESC
-LANG_RUSSIAN		"Будьте первым, кто доминирует с каждым оружием."
+LANG_RUSSIAN		"ГЃГіГ¤ГјГІГҐ ГЇГҐГ°ГўГ»Г¬, ГЄГІГ® Г¤Г®Г¬ГЁГ­ГЁГ°ГіГҐГІ Г± ГЄГ Г¦Г¤Г»Г¬ Г®Г°ГіГ¦ГЁГҐГ¬."
 
 REFERENCE			MPUI_SHARPSHOOTER
-LANG_RUSSIAN		"Стрелок"
+LANG_RUSSIAN		"Г‘ГІГ°ГҐГ«Г®ГЄ"
 
 REFERENCE			MPUI_SHARPSHOOTER_CAPS
-LANG_RUSSIAN		"СТРЕЛОК"
+LANG_RUSSIAN		"Г‘Г’ГђГ…Г‹ГЋГЉ"
 
 REFERENCE			MENU_SHARPSHOOTER
-LANG_RUSSIAN		"Все игроки получают одинаковое оружие, выбирается рандомно. Каждые 45 секунд выбирается рандомное оружие которое будут использовать все игроки"
+LANG_RUSSIAN		"Г‚Г±ГҐ ГЁГЈГ°Г®ГЄГЁ ГЇГ®Г«ГіГ·Г ГѕГІ Г®Г¤ГЁГ­Г ГЄГ®ГўГ®ГҐ Г®Г°ГіГ¦ГЁГҐ, ГўГ»ГЎГЁГ°Г ГҐГІГ±Гї Г°Г Г­Г¤Г®Г¬Г­Г®. ГЉГ Г¦Г¤Г»ГҐ 45 Г±ГҐГЄГіГ­Г¤ ГўГ»ГЎГЁГ°Г ГҐГІГ±Гї Г°Г Г­Г¤Г®Г¬Г­Г®ГҐ Г®Г°ГіГ¦ГЁГҐ ГЄГ®ГІГ®Г°Г®ГҐ ГЎГіГ¤ГіГІ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј ГўГ±ГҐ ГЁГЈГ°Г®ГЄГЁ"
 
 REFERENCE			MPUI_OITC
-LANG_RUSSIAN		"Один Патрон"
+LANG_RUSSIAN		"ГЋГ¤ГЁГ­ ГЏГ ГІГ°Г®Г­"
 
 REFERENCE			MPUI_OITC_CAPS
-LANG_RUSSIAN		"ОДИН ПАТРОН"
+LANG_RUSSIAN		"ГЋГ„Г€ГЌ ГЏГЂГ’ГђГЋГЌ"
 
 REFERENCE			MENU_OITC_DESC
-LANG_RUSSIAN		"Получайте боеприпасы, уничтожая врагов. Побеждает наивысший балл."
+LANG_RUSSIAN		"ГЏГ®Г«ГіГ·Г Г©ГІГҐ ГЎГ®ГҐГЇГ°ГЁГЇГ Г±Г», ГіГ­ГЁГ·ГІГ®Г¦Г Гї ГўГ°Г ГЈГ®Гў. ГЏГ®ГЎГҐГ¦Г¤Г ГҐГІ Г­Г ГЁГўГ»Г±ГёГЁГ© ГЎГ Г«Г«."
 
 REFERENCE			MPUI_CONF
-LANG_RUSSIAN		"Убийство подтверждено"
+LANG_RUSSIAN		"Г“ГЎГЁГ©Г±ГІГўГ® ГЇГ®Г¤ГІГўГҐГ°Г¦Г¤ГҐГ­Г®"
 
 REFERENCE			MPUI_CONF_CAPS
-LANG_RUSSIAN		"УБИЙСТВО ПОДТВЕРЖДЕНО"
+LANG_RUSSIAN		"Г“ГЃГ€Г‰Г‘Г’Г‚ГЋ ГЏГЋГ„Г’Г‚Г…ГђГ†Г„Г…ГЌГЋ"
 
 REFERENCE			MENU_CONF
-LANG_RUSSIAN		"Забирайте жетоны противников и ваших союзников чтобы получить более высокий счет"
+LANG_RUSSIAN		"Г‡Г ГЎГЁГ°Г Г©ГІГҐ Г¦ГҐГІГ®Г­Г» ГЇГ°Г®ГІГЁГўГ­ГЁГЄГ®Гў ГЁ ГўГ ГёГЁГµ Г±Г®ГѕГ§Г­ГЁГЄГ®Гў Г·ГІГ®ГЎГ» ГЇГ®Г«ГіГ·ГЁГІГј ГЎГ®Г«ГҐГҐ ГўГ»Г±Г®ГЄГЁГ© Г±Г·ГҐГІ"
 
 REFERENCE			CONF_GAME_DESC
-LANG_RUSSIAN		"Собирайте жетоны чтобы выиграть"
+LANG_RUSSIAN		"Г‘Г®ГЎГЁГ°Г Г©ГІГҐ Г¦ГҐГІГ®Г­Г» Г·ГІГ®ГЎГ» ГўГ»ГЁГЈГ°Г ГІГј"
 
 REFERENCE			MPUI_INF
-LANG_RUSSIAN		"Зараженный"
+LANG_RUSSIAN		"Г‡Г Г°Г Г¦ГҐГ­Г­Г»Г©"
 
 REFERENCE			MPUI_INF_CAPS
-LANG_RUSSIAN		"Зараженный"
+LANG_RUSSIAN		"Г‡Г Г°Г Г¦ГҐГ­Г­Г»Г©"
 
 REFERENCE			MENU_INF
-LANG_RUSSIAN		"Убитые союзники становятся заражёнными! Заразите всех или выживите чтобы победить"
+LANG_RUSSIAN		"Г“ГЎГЁГІГ»ГҐ Г±Г®ГѕГ§Г­ГЁГЄГЁ Г±ГІГ Г­Г®ГўГїГІГ±Гї Г§Г Г°Г Г¦ВёГ­Г­Г»Г¬ГЁ! Г‡Г Г°Г Г§ГЁГІГҐ ГўГ±ГҐГµ ГЁГ«ГЁ ГўГ»Г¦ГЁГўГЁГІГҐ Г·ГІГ®ГЎГ» ГЇГ®ГЎГҐГ¤ГЁГІГј"
 
 REFERENCE			INF_GAME_DESC
-LANG_RUSSIAN		"Убитые союзники становятся заражёнными! Заразите всех или выживите чтобы победить"
+LANG_RUSSIAN		"Г“ГЎГЁГІГ»ГҐ Г±Г®ГѕГ§Г­ГЁГЄГЁ Г±ГІГ Г­Г®ГўГїГІГ±Гї Г§Г Г°Г Г¦ВёГ­Г­Г»Г¬ГЁ! Г‡Г Г°Г Г§ГЁГІГҐ ГўГ±ГҐГµ ГЁГ«ГЁ ГўГ»Г¦ГЁГўГЁГІГҐ Г·ГІГ®ГЎГ» ГЇГ®ГЎГҐГ¤ГЁГІГј"
 
 REFERENCE			INF_WAIT_FOR_PLAYERS
-LANG_RUSSIAN		"Ожидание игроков..."
+LANG_RUSSIAN		"ГЋГ¦ГЁГ¤Г Г­ГЁГҐ ГЁГЈГ°Г®ГЄГ®Гў..."
 
 REFERENCE			INF_COUNTDOWN
-LANG_RUSSIAN		"Отсчет до заражения: "
+LANG_RUSSIAN		"ГЋГІГ±Г·ГҐГІ Г¤Г® Г§Г Г°Г Г¦ГҐГ­ГЁГї: "
 
 REFERENCE			INF_ALLIES_ELIM
-LANG_RUSSIAN		"Выжившие уничтожены."
+LANG_RUSSIAN		"Г‚Г»Г¦ГЁГўГёГЁГҐ ГіГ­ГЁГ·ГІГ®Г¦ГҐГ­Г»."
 
 REFERENCE			INF_GOT_INFECTED
-LANG_RUSSIAN		"Зараженный!"
+LANG_RUSSIAN		"Г‡Г Г°Г Г¦ГҐГ­Г­Г»Г©!"
 
 REFERENCE			INF_LAST_ALIVE
-LANG_RUSSIAN		"Последний в живых!"
+LANG_RUSSIAN		"ГЏГ®Г±Г«ГҐГ¤Г­ГЁГ© Гў Г¦ГЁГўГ»Гµ!"
 
 REFERENCE			INF_SURVIVOR
-LANG_RUSSIAN		"Выживший!"
+LANG_RUSSIAN		"Г‚Г»Г¦ГЁГўГёГЁГ©!"
 
 REFERENCE			CONF_PICKEDUP_TAGS
-LANG_RUSSIAN		"ЖЕТОН ВОЗВРАЩЕН"
+LANG_RUSSIAN		"Г†Г…Г’ГЋГЌ Г‚ГЋГ‡Г‚ГђГЂГ™Г…ГЌ"
 
 REFERENCE			CONF_KILL_DENIED
-LANG_RUSSIAN		"УБИЙСТВО ОТМЕНЕНО"
+LANG_RUSSIAN		"Г“ГЃГ€Г‰Г‘Г’Г‚ГЋ ГЋГ’ГЊГ…ГЌГ…ГЌГЋ"
 
 REFERENCE			CONF_KILL_CONFIRMED
-LANG_RUSSIAN		"УБИЙСТВО ПОДТВЕРЖДЕНО"
+LANG_RUSSIAN		"Г“ГЃГ€Г‰Г‘Г’Г‚ГЋ ГЏГЋГ„Г’Г‚Г…ГђГ†Г„Г…ГЌГЋ"
 
 REFERENCE			MPUI_CRANKED
-LANG_RUSSIAN		"Заряженный"
+LANG_RUSSIAN		"Г‡Г Г°ГїГ¦ГҐГ­Г­Г»Г©"
 
 REFERENCE			MPUI_CRANKED_CAPS
-LANG_RUSSIAN		"ЗАРЯЖЕННЫЙ"
+LANG_RUSSIAN		"Г‡ГЂГђГџГ†Г…ГЌГЌГ›Г‰"
 
 REFERENCE			MENU_CRANKED
-LANG_RUSSIAN		"Убийства дают вам дополнительные перки, двукратное увеличение очков и ограничение по времени. Убивайте, чтобы остаться в живых!"
+LANG_RUSSIAN		"Г“ГЎГЁГ©Г±ГІГўГ  Г¤Г ГѕГІ ГўГ Г¬ Г¤Г®ГЇГ®Г«Г­ГЁГІГҐГ«ГјГ­Г»ГҐ ГЇГҐГ°ГЄГЁ, Г¤ГўГіГЄГ°Г ГІГ­Г®ГҐ ГіГўГҐГ«ГЁГ·ГҐГ­ГЁГҐ Г®Г·ГЄГ®Гў ГЁ Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГҐ ГЇГ® ГўГ°ГҐГ¬ГҐГ­ГЁ. Г“ГЎГЁГўГ Г©ГІГҐ, Г·ГІГ®ГЎГ» Г®Г±ГІГ ГІГјГ±Гї Гў Г¦ГЁГўГ»Гµ!"
 
 REFERENCE			OBJECTIVES_TDEF_ATTACKER_HINT
-LANG_RUSSIAN		"Флаг захвата для бонуса команды x2."
+LANG_RUSSIAN		"Г”Г«Г ГЈ Г§Г ГµГўГ ГІГ  Г¤Г«Гї ГЎГ®Г­ГіГ±Г  ГЄГ®Г¬Г Г­Г¤Г» x2."
 
 REFERENCE			OBJECTIVES_TDEF_DEFENDER_HINT
-LANG_RUSSIAN		"Флаг защиты для бонуса команды x2."
+LANG_RUSSIAN		"Г”Г«Г ГЈ Г§Г Г№ГЁГІГ» Г¤Г«Гї ГЎГ®Г­ГіГ±Г  ГЄГ®Г¬Г Г­Г¤Г» x2."
 
 REFERENCE			OBJECTIVES_TDEF
-LANG_RUSSIAN		"Захватите и удерживайте флаг, чтобы получить командный бонус за двойной результат."
+LANG_RUSSIAN		"Г‡Г ГµГўГ ГІГЁГІГҐ ГЁ ГіГ¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ГґГ«Г ГЈ, Г·ГІГ®ГЎГ» ГЇГ®Г«ГіГ·ГЁГІГј ГЄГ®Г¬Г Г­Г¤Г­Г»Г© ГЎГ®Г­ГіГ± Г§Г  Г¤ГўГ®Г©Г­Г®Г© Г°ГҐГ§ГіГ«ГјГІГ ГІ."
 
 REFERENCE			OBJECTIVES_TDEF_SCORE
-LANG_RUSSIAN		"Захватите и удерживайте флаг, чтобы получить командный бонус за двойной результат.  Первая команда до &&1 wins."
+LANG_RUSSIAN		"Г‡Г ГµГўГ ГІГЁГІГҐ ГЁ ГіГ¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ГґГ«Г ГЈ, Г·ГІГ®ГЎГ» ГЇГ®Г«ГіГ·ГЁГІГј ГЄГ®Г¬Г Г­Г¤Г­Г»Г© ГЎГ®Г­ГіГ± Г§Г  Г¤ГўГ®Г©Г­Г®Г© Г°ГҐГ§ГіГ«ГјГІГ ГІ.  ГЏГҐГ°ГўГ Гї ГЄГ®Г¬Г Г­Г¤Г  Г¤Г® &&1 wins."
 
 REFERENCE			OBJECTIVES_TDEF_HINT
-LANG_RUSSIAN		"Захватите и удерживайте флаг."
+LANG_RUSSIAN		"Г‡Г ГµГўГ ГІГЁГІГҐ ГЁ ГіГ¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ГґГ«Г ГЈ."
 
 REFERENCE			MPUI_TDEF
-LANG_RUSSIAN		"Команда Защиты"
+LANG_RUSSIAN		"ГЉГ®Г¬Г Г­Г¤Г  Г‡Г Г№ГЁГІГ»"
 
 REFERENCE			MPUI_TDEF_CAPS
-LANG_RUSSIAN		"КОМАНДА ЗАЩИТЫ"
+LANG_RUSSIAN		"ГЉГЋГЊГЂГЌГ„ГЂ Г‡ГЂГ™Г€Г’Г›"
 
 REFERENCE			MENU_TDEF
 LANG_RUSSIAN		"Capture and hold the flag for a team double scoring bonus.  Not for the faint of heart.\n \n Created by Intricate."
@@ -122,97 +122,97 @@ REFERENCE			WEAPON_PEACEKEEPER
 LANG_RUSSIAN		"Peacekeeper"
 
 REFERENCE			WEAPON_AK47_CLASSIC
-LANG_RUSSIAN		"AK-47 Классический"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ©"
 
 REFERENCE			WEAPON_AK47_CLASSIC_REDDOT
-LANG_RUSSIAN		"AK-47 Классический Колиматор"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© ГЉГ®Г«ГЁГ¬Г ГІГ®Г°"
 
 REFERENCE			WEAPON_AK47_CLASSIC_SILENCER
-LANG_RUSSIAN		"AK-47 Классический Глушитель"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© ГѓГ«ГіГёГЁГІГҐГ«Гј"
 
 REFERENCE			WEAPON_AK47_CLASSIC_XMAGS
-LANG_RUSSIAN		"AK-47 Классический Увеличенные Магазины"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© Г“ГўГҐГ«ГЁГ·ГҐГ­Г­Г»ГҐ ГЊГ ГЈГ Г§ГЁГ­Г»"
 
 REFERENCE			WEAPON_AK47_CLASSIC_ACOG
-LANG_RUSSIAN		"AK-47 Классический ACOG Прицел"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© ACOG ГЏГ°ГЁГ¶ГҐГ«"
 
 REFERENCE			WEAPON_AK47_CLASSIC_FMJ
-LANG_RUSSIAN		"AK-47 Классический Экспансивные патроны"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© ГќГЄГ±ГЇГ Г­Г±ГЁГўГ­Г»ГҐ ГЇГ ГІГ°Г®Г­Г»"
 
 REFERENCE			WEAPON_AK47_CLASSIC_GP25
-LANG_RUSSIAN		"AK-47 Классический Подствольный Гранатомёт"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© ГЏГ®Г¤Г±ГІГўГ®Г«ГјГ­Г»Г© ГѓГ°Г Г­Г ГІГ®Г¬ВёГІ"
 
 REFERENCE			WEAPON_AK47_CLASSIC_BLING
-LANG_RUSSIAN		"AK-47 Классический Улучшенный"
+LANG_RUSSIAN		"AK-47 ГЉГ«Г Г±Г±ГЁГ·ГҐГ±ГЄГЁГ© Г“Г«ГіГ·ГёГҐГ­Г­Г»Г©"
 
 REFERENCE			WEAPON_AK74U_EXTENDED_MAGS
-LANG_RUSSIAN		"AK-74u Увеличенные Магазины"
+LANG_RUSSIAN		"AK-74u Г“ГўГҐГ«ГЁГ·ГҐГ­Г­Г»ГҐ ГЊГ ГЈГ Г§ГЁГ­Г»"
 
 REFERENCE			WEAPON_AK74U_ACOG
-LANG_RUSSIAN		"AK-74u ACOG Прицел"
+LANG_RUSSIAN		"AK-74u ACOG ГЏГ°ГЁГ¶ГҐГ«"
 
 REFERENCE           WEAPON_DESERTEAGLEGOLD_TACTICAL
-LANG_RUSSIAN        "Золотой Desert Eagle Тактический Нож"
+LANG_RUSSIAN        "Г‡Г®Г«Г®ГІГ®Г© Desert Eagle Г’Г ГЄГІГЁГ·ГҐГ±ГЄГЁГ© ГЌГ®Г¦"
 
 REFERENCE           WEAPON_DESERTEAGLEGOLD_AKIMBO
-LANG_RUSSIAN        "Двойные Золотые Desert Eagle"
+LANG_RUSSIAN        "Г„ГўГ®Г©Г­Г»ГҐ Г‡Г®Г«Г®ГІГ»ГҐ Desert Eagle"
 
 REFERENCE           WEAPON_DESERTEAGLEGOLD_FMJ
-LANG_RUSSIAN        "Золотой Desert Eagle Экспансивные патроны"
+LANG_RUSSIAN        "Г‡Г®Г«Г®ГІГ®Г© Desert Eagle ГќГЄГ±ГЇГ Г­Г±ГЁГўГ­Г»ГҐ ГЇГ ГІГ°Г®Г­Г»"
 
 REFERENCE           WEAPON_DESERTEAGLEGOLD_BLING
-LANG_RUSSIAN        "Золотой Desert Eagle Улучшенный"
+LANG_RUSSIAN        "Г‡Г®Г«Г®ГІГ®Г© Desert Eagle Г“Г«ГіГ·ГёГҐГ­Г­Г»Г©"
 
 REFERENCE			MENU_RECONNECTING_TO_PARTY
-LANG_RUSSIAN		"Подключение к серверу"
+LANG_RUSSIAN		"ГЏГ®Г¤ГЄГ«ГѕГ·ГҐГ­ГЁГҐ ГЄ Г±ГҐГ°ГўГҐГ°Гі"
 
 REFERENCE			EXE_AWAITINGGAMESTATE
-LANG_RUSSIAN		"Ожидание состояние игры"
+LANG_RUSSIAN		"ГЋГ¦ГЁГ¤Г Г­ГЁГҐ Г±Г®Г±ГІГ®ГїГ­ГЁГҐ ГЁГЈГ°Г»"
 
 REFERENCE			MPUI_BLOC
-LANG_RUSSIAN		"Блок"
+LANG_RUSSIAN		"ГЃГ«Г®ГЄ"
 
 REFERENCE			MPUI_BOG_SH
-LANG_RUSSIAN		"Болото"
+LANG_RUSSIAN		"ГЃГ®Г«Г®ГІГ®"
 
 REFERENCE			MPUI_DESC_MAP_CARGOSHIP
-LANG_RUSSIAN		"Портированная карта из COD4."
+LANG_RUSSIAN		"ГЏГ®Г°ГІГЁГ°Г®ГўГ Г­Г­Г Гї ГЄГ Г°ГІГ  ГЁГ§ COD4."
 
 REFERENCE			MPUI_CARGOSHIP_SH
-LANG_RUSSIAN		"Грузовое Судно"
+LANG_RUSSIAN		"ГѓГ°ГіГ§Г®ГўГ®ГҐ Г‘ГіГ¤Г­Г®"
 
 REFERENCE			MPUI_DESC_MAP_CARGOSHIP_SH
-LANG_RUSSIAN		"Снежная версия карты - Мокрое Дело"
+LANG_RUSSIAN		"Г‘Г­ГҐГ¦Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» - ГЊГ®ГЄГ°Г®ГҐ Г„ГҐГ«Г®"
 
 REFERENCE			MPUI_KILLHOUSE
-LANG_RUSSIAN		"Мясорубка"
+LANG_RUSSIAN		"ГЊГїГ±Г®Г°ГіГЎГЄГ "
 
 REFERENCE			MPUI_DESC_MAP_KILLHOUSE
-LANG_RUSSIAN		"На этой небольшой карте обычно много игроков и идет жаркая битва."
+LANG_RUSSIAN		"ГЌГ  ГЅГІГ®Г© Г­ГҐГЎГ®Г«ГјГёГ®Г© ГЄГ Г°ГІГҐ Г®ГЎГ»Г·Г­Г® Г¬Г­Г®ГЈГ® ГЁГЈГ°Г®ГЄГ®Гў ГЁ ГЁГ¤ГҐГІ Г¦Г Г°ГЄГ Гї ГЎГЁГІГўГ ."
 
 REFERENCE			MPUI_DESC_MAP_OILRIG
-LANG_RUSSIAN		"Единственный лёгкий день... Был вчера"
+LANG_RUSSIAN		"Г…Г¤ГЁГ­Г±ГІГўГҐГ­Г­Г»Г© Г«ВёГЈГЄГЁГ© Г¤ГҐГ­Гј... ГЃГ»Г« ГўГ·ГҐГ°Г "
 
 REFERENCE			MENU_NATIVECURSOR
-LANG_RUSSIAN		"Нативный курсор"
+LANG_RUSSIAN		"ГЌГ ГІГЁГўГ­Г»Г© ГЄГіГ°Г±Г®Г°"
 
 REFERENCE			MPUI_UNLOCK_STATS_CAPS
-LANG_RUSSIAN		"РАЗБЛОКИРОВАТЬ ВСЁ"
+LANG_RUSSIAN		"ГђГЂГ‡ГЃГ‹ГЋГЉГ€ГђГЋГ‚ГЂГ’Гњ Г‚Г‘ВЁ"
 
 REFERENCE			MPUI_UNLOCK_STATS_WARNING
-LANG_RUSSIAN		"Внимание! Данная функция разблокирует вам всё в игре, титулы, эмблемы, оружие и так далее."
+LANG_RUSSIAN		"Г‚Г­ГЁГ¬Г Г­ГЁГҐ! Г„Г Г­Г­Г Гї ГґГіГ­ГЄГ¶ГЁГї Г°Г Г§ГЎГ«Г®ГЄГЁГ°ГіГҐГІ ГўГ Г¬ ГўГ±Вё Гў ГЁГЈГ°ГҐ, ГІГЁГІГіГ«Г», ГЅГ¬ГЎГ«ГҐГ¬Г», Г®Г°ГіГ¦ГЁГҐ ГЁ ГІГ ГЄ Г¤Г Г«ГҐГҐ."
 
 REFERENCE			MENU_UNLOCK_STATS
-LANG_RUSSIAN		"РАЗБЛОКИРОВАТЬ ВСЁ"
+LANG_RUSSIAN		"ГђГЂГ‡ГЃГ‹ГЋГЉГ€ГђГЋГ‚ГЂГ’Гњ Г‚Г‘ВЁ"
 
 REFERENCE			MENU_RESET_STATS
-LANG_RUSSIAN		"СБРОС ПРОГРЕССА"
+LANG_RUSSIAN		"Г‘ГЃГђГЋГ‘ ГЏГђГЋГѓГђГ…Г‘Г‘ГЂ"
 
 REFERENCE			MPUI_RESET_STATS_CAPS
-LANG_RUSSIAN		"СБРОС ПРОГРЕССА"
+LANG_RUSSIAN		"Г‘ГЃГђГЋГ‘ ГЏГђГЋГѓГђГ…Г‘Г‘ГЂ"
 
 REFERENCE			MPUI_RESET_STATS_WARNING
-LANG_RUSSIAN		"Внимание! Данная функция сбросит полностью ваш прогресс в игре. Думайте, что вы сейчас собираетесь сделать!"
+LANG_RUSSIAN		"Г‚Г­ГЁГ¬Г Г­ГЁГҐ! Г„Г Г­Г­Г Гї ГґГіГ­ГЄГ¶ГЁГї Г±ГЎГ°Г®Г±ГЁГІ ГЇГ®Г«Г­Г®Г±ГІГјГѕ ГўГ Гё ГЇГ°Г®ГЈГ°ГҐГ±Г± Гў ГЁГЈГ°ГҐ. Г„ГіГ¬Г Г©ГІГҐ, Г·ГІГ® ГўГ» Г±ГҐГ©Г·Г Г± Г±Г®ГЎГЁГ°Г ГҐГІГҐГ±Гј Г±Г¤ГҐГ«Г ГІГј!"
 
 REFERENCE			MPUI_DESC_UNLOCK_STATS
 LANG_RUSSIAN		""
@@ -224,151 +224,151 @@ REFERENCE			MPUI_NUKED
 LANG_RUSSIAN		"Nuketown"
 
 REFERENCE			MPUI_DESC_MAP_NUKED
-LANG_RUSSIAN		"Полигон для тестирования ядерного оружия во время Холодной Войны."
+LANG_RUSSIAN		"ГЏГ®Г«ГЁГЈГ®Г­ Г¤Г«Гї ГІГҐГ±ГІГЁГ°Г®ГўГ Г­ГЁГї ГїГ¤ГҐГ°Г­Г®ГЈГ® Г®Г°ГіГ¦ГЁГї ГўГ® ГўГ°ГҐГ¬Гї Г•Г®Г«Г®Г¤Г­Г®Г© Г‚Г®Г©Г­Г»."
 
 REFERENCE			MPUI_DESC_MAP_FIRINGRANGE
-LANG_RUSSIAN		"Карта представляет собой испытательный полигон спецслужб США."
+LANG_RUSSIAN		"ГЉГ Г°ГІГ  ГЇГ°ГҐГ¤Г±ГІГ ГўГ«ГїГҐГІ Г±Г®ГЎГ®Г© ГЁГ±ГЇГ»ГІГ ГІГҐГ«ГјГ­Г»Г© ГЇГ®Г«ГЁГЈГ®Г­ Г±ГЇГҐГ¶Г±Г«ГіГ¦ГЎ Г‘ГГЂ."
 
 REFERENCE			MPUI_RUST_LONG
-LANG_RUSSIAN		"Rust: Длинный"
+LANG_RUSSIAN		"Rust: Г„Г«ГЁГ­Г­Г»Г©"
 
 REFERENCE			MPUI_DESC_MAP_RUST_LONG
-LANG_RUSSIAN		"Увеличенная версия карты Rust"
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГҐГ­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» Rust"
 
 REFERENCE			MPUI_SHIPMENT_LONG
-LANG_RUSSIAN		"Shipment: Длинный"
+LANG_RUSSIAN		"Shipment: Г„Г«ГЁГ­Г­Г»Г©"
 
 REFERENCE			MPUI_DESC_MAP_SHIPMENT_LONG
-LANG_RUSSIAN		"Увеличенная версия карты Shipment"
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГҐГ­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» Shipment"
 
 REFERENCE			MPUI_BLOC_SH
-LANG_RUSSIAN		"Забытый Город"
+LANG_RUSSIAN		"Г‡Г ГЎГ»ГІГ»Г© ГѓГ®Г°Г®Г¤"
 
 REFERENCE			MPUI_DESC_MAP_BLOC_SH
-LANG_RUSSIAN		"Модифицированная версия карты Блок из COD:Online"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГ¶ГЁГ°Г®ГўГ Г­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» ГЃГ«Г®ГЄ ГЁГ§ COD:Online"
 
 REFERENCE			MPUI_CRASH_TROPICAL
-LANG_RUSSIAN		"Крушение: Тропики"
+LANG_RUSSIAN		"ГЉГ°ГіГёГҐГ­ГЁГҐ: Г’Г°Г®ГЇГЁГЄГЁ"
 
 REFERENCE			MPUI_DESC_MAP_CRASH_TROPICAL
-LANG_RUSSIAN		"Модифицированная версия карты Крушение выполненная в тропическом стиле"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГ¶ГЁГ°Г®ГўГ Г­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» ГЉГ°ГіГёГҐГ­ГЁГҐ ГўГ»ГЇГ®Г«Г­ГҐГ­Г­Г Гї Гў ГІГ°Г®ГЇГЁГ·ГҐГ±ГЄГ®Г¬ Г±ГІГЁГ«ГҐ"
 
 REFERENCE			MPUI_ESTATE_TROPICAL
-LANG_RUSSIAN		"Estate: Тропики"
+LANG_RUSSIAN		"Estate: Г’Г°Г®ГЇГЁГЄГЁ"
 
 REFERENCE			MPUI_DESC_MAP_ESTATE_TROPICAL
-LANG_RUSSIAN		"Модифицированная версия карты Estate выполненная в тропическом стиле"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГ¶ГЁГ°Г®ГўГ Г­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» Estate ГўГ»ГЇГ®Г«Г­ГҐГ­Г­Г Гї Гў ГІГ°Г®ГЇГЁГ·ГҐГ±ГЄГ®Г¬ Г±ГІГЁГ«ГҐ"
 
 REFERENCE			MPUI_FAV_TROPICAL
-LANG_RUSSIAN		"Favela: Тропики"
+LANG_RUSSIAN		"Favela: Г’Г°Г®ГЇГЁГЄГЁ"
 
 REFERENCE			MPUI_DESC_MAP_FAV_TROPICAL
-LANG_RUSSIAN		"Модифицированная версия карты Favela выполненная в тропическом стиле"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГ¶ГЁГ°Г®ГўГ Г­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» Favela ГўГ»ГЇГ®Г«Г­ГҐГ­Г­Г Гї Гў ГІГ°Г®ГЇГЁГ·ГҐГ±ГЄГ®Г¬ Г±ГІГЁГ«ГҐ"
 
 REFERENCE			MPUI_STORM_SPRING
-LANG_RUSSIAN		"Химический Завод"
+LANG_RUSSIAN		"Г•ГЁГ¬ГЁГ·ГҐГ±ГЄГЁГ© Г‡Г ГўГ®Г¤"
 
 REFERENCE			MPUI_DESC_MAP_STORM_SPRING
-LANG_RUSSIAN		"Модифицированная версия карты Storm, снег заместо дождя"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГ¶ГЁГ°Г®ГўГ Г­Г­Г Гї ГўГҐГ°Г±ГЁГї ГЄГ Г°ГІГ» Storm, Г±Г­ГҐГЈ Г§Г Г¬ГҐГ±ГІГ® Г¤Г®Г¦Г¤Гї"
 
 REFERENCE			MPUI_CO_HUNTED
-LANG_RUSSIAN		"Деревня"
+LANG_RUSSIAN		"Г„ГҐГ°ГҐГўГ­Гї"
 
 REFERENCE			MPUI_DESC_MAP_CO_HUNTED
-LANG_RUSSIAN		"Утренняя Русская деревня"
+LANG_RUSSIAN		"Г“ГІГ°ГҐГ­Г­ГїГї ГђГіГ±Г±ГЄГ Гї Г¤ГҐГ°ГҐГўГ­Гї"
 
 REFERENCE			MP_NEUTRAL_FLAG_DROPPED_BY
-LANG_RUSSIAN		"&&1 уронил флаг!"
+LANG_RUSSIAN		"&&1 ГіГ°Г®Г­ГЁГ« ГґГ«Г ГЈ!"
 
 REFERENCE			SPLASHES_X2_BONUS
-LANG_RUSSIAN		"x2 бонус!"
+LANG_RUSSIAN		"x2 ГЎГ®Г­ГіГ±!"
 
 REFERENCE			SPLASHES_TEAM_ASSIST
-LANG_RUSSIAN		"Помощь Команды!"
+LANG_RUSSIAN		"ГЏГ®Г¬Г®Г№Гј ГЉГ®Г¬Г Г­Г¤Г»!"
 
 REFERENCE			MENU_MODS
-LANG_RUSSIAN		"Модификации"
+LANG_RUSSIAN		"ГЊГ®Г¤ГЁГґГЁГЄГ Г¶ГЁГЁ"
 
 REFERENCE			MENU_MODS_CAPS
-LANG_RUSSIAN		"МОДЫ"
+LANG_RUSSIAN		"ГЊГЋГ„Г›"
 
 REFERENCE			MPUI_DESC_MODS
-LANG_RUSSIAN		"Просмотрите ваши моды"
+LANG_RUSSIAN		"ГЏГ°Г®Г±Г¬Г®ГІГ°ГЁГІГҐ ГўГ ГёГЁ Г¬Г®Г¤Г»"
 
 REFERENCE			MENU_STORE
-LANG_RUSSIAN		"Магазин"
+LANG_RUSSIAN		"ГЊГ ГЈГ Г§ГЁГ­"
 
 REFERENCE			MENU_STORE_CAPS
-LANG_RUSSIAN		"МАГАЗИН"
+LANG_RUSSIAN		"ГЊГЂГѓГЂГ‡Г€ГЌ"
 
 REFERENCE			MPUI_DESC_STORE
-LANG_RUSSIAN		"Просмотрите доступный загружаемый игровой контент."
+LANG_RUSSIAN		"ГЏГ°Г®Г±Г¬Г®ГІГ°ГЁГІГҐ Г¤Г®Г±ГІГіГЇГ­Г»Г© Г§Г ГЈГ°ГіГ¦Г ГҐГ¬Г»Г© ГЁГЈГ°Г®ГўГ®Г© ГЄГ®Г­ГІГҐГ­ГІ."
 
 REFERENCE			MENU_FRIENDS
-LANG_RUSSIAN		"Друзья"
+LANG_RUSSIAN		"Г„Г°ГіГ§ГјГї"
 
 REFERENCE			MENU_FRIENDS_CAPS
-LANG_RUSSIAN		"ДРУЗЬЯ"
+LANG_RUSSIAN		"Г„ГђГ“Г‡ГњГџ"
 
 REFERENCE			MENU_PASSWORD_CAPS
-LANG_RUSSIAN		"ПАРОЛЬ"
+LANG_RUSSIAN		"ГЏГЂГђГЋГ‹Гњ"
 
 REFERENCE			PLATFORM_FRIENDS
-LANG_RUSSIAN		"Друзья ^0- ^3F"
+LANG_RUSSIAN		"Г„Г°ГіГ§ГјГї ^0- ^3F"
 
 REFERENCE			PLATFORM_FRIENDS_CAPS
-LANG_RUSSIAN		"ДРУЗЬЯ ^0- ^3F"
+LANG_RUSSIAN		"Г„ГђГ“Г‡ГњГџ ^0- ^3F"
 
 REFERENCE			MPUI_DESC_FRIENDS
-LANG_RUSSIAN		"Посмотрите, где играют ваши друзья."
+LANG_RUSSIAN		"ГЏГ®Г±Г¬Г®ГІГ°ГЁГІГҐ, ГЈГ¤ГҐ ГЁГЈГ°Г ГѕГІ ГўГ ГёГЁ Г¤Г°ГіГ§ГјГї."
 
 REFERENCE			MENU_FRIENDNOTIFY
-LANG_RUSSIAN		"Уведомления Друзей"
+LANG_RUSSIAN		"Г“ГўГҐГ¤Г®Г¬Г«ГҐГ­ГЁГї Г„Г°ГіГ§ГҐГ©"
 
 REFERENCE			MPUI_DESC_FRIENDNOTIFY
-LANG_RUSSIAN		"Перевода нет..."
+LANG_RUSSIAN		"ГЏГҐГ°ГҐГўГ®Г¤Г  Г­ГҐГІ..."
 
 REFERENCE			MPUI_DESC_OPTIONS
-LANG_RUSSIAN		"Установите ваши настройки игры."
+LANG_RUSSIAN		"Г“Г±ГІГ Г­Г®ГўГЁГІГҐ ГўГ ГёГЁ Г­Г Г±ГІГ°Г®Г©ГЄГЁ ГЁГЈГ°Г»."
 
 REFERENCE			MPUI_DESC_QUIT
-LANG_RUSSIAN		"Выход из игры."
+LANG_RUSSIAN		"Г‚Г»ГµГ®Г¤ ГЁГ§ ГЁГЈГ°Г»."
 
 REFERENCE			MENU_CLOSE
-LANG_RUSSIAN		"Выход"
+LANG_RUSSIAN		"Г‚Г»ГµГ®Г¤"
 
 REFERENCE			MENU_CLOSE_CAPS
-LANG_RUSSIAN		"ВЫХОД"
+LANG_RUSSIAN		"Г‚Г›Г•ГЋГ„"
 
 REFERENCE			PLATFORM_CHANGE_NAME_CAPS
-LANG_RUSSIAN		"^3И^7ЗМЕНИТЬ ИМЯ"
+LANG_RUSSIAN		"^3Г€^7Г‡ГЊГ…ГЌГ€Г’Гњ Г€ГЊГџ"
 
 REFERENCE			MPUI_DESC_CHANGE_NAME
-LANG_RUSSIAN		"Измените ваше имя"
+LANG_RUSSIAN		"Г€Г§Г¬ГҐГ­ГЁГІГҐ ГўГ ГёГҐ ГЁГ¬Гї"
 
 REFERENCE			PLAYERCARDS_TITLE_EVIL_CHICKEN
-LANG_RUSSIAN		"Злая Курочка"
+LANG_RUSSIAN		"Г‡Г«Г Гї ГЉГіГ°Г®Г·ГЄГ "
 
 REFERENCE			MENU_THEATER
-LANG_RUSSIAN		"Театр"
+LANG_RUSSIAN		"Г’ГҐГ ГІГ°"
 
 REFERENCE			MENU_THEATER_CAPS
-LANG_RUSSIAN		"ТЕАТР"
+LANG_RUSSIAN		"Г’Г…ГЂГ’Гђ"
 
 REFERENCE			MPUI_DESC_THEATER
-LANG_RUSSIAN		"Просмотрите ваши сыгранные матчи"
+LANG_RUSSIAN		"ГЏГ°Г®Г±Г¬Г®ГІГ°ГЁГІГҐ ГўГ ГёГЁ Г±Г»ГЈГ°Г Г­Г­Г»ГҐ Г¬Г ГІГ·ГЁ"
 
 REFERENCE			MENU_PLAY
-LANG_RUSSIAN		"Вопроизвести"
+LANG_RUSSIAN		"Г‚Г®ГЇГ°Г®ГЁГ§ГўГҐГ±ГІГЁ"
 
 REFERENCE			MENU_PLAY_CAPS
-LANG_RUSSIAN		"ВОСПРОИЗВЕСТИ"
+LANG_RUSSIAN		"Г‚ГЋГ‘ГЏГђГЋГ€Г‡Г‚Г…Г‘Г’Г€"
 
 REFERENCE			MENU_DELETE
-LANG_RUSSIAN		"Удалить"
+LANG_RUSSIAN		"Г“Г¤Г Г«ГЁГІГј"
 
 REFERENCE			MENU_DELETE_CAPS
-LANG_RUSSIAN		"УДАЛИТЬ"
+LANG_RUSSIAN		"Г“Г„ГЂГ‹Г€Г’Гњ"
 
 REFERENCE			MPUI_DEMOS_KEEP
 LANG_RUSSIAN		"Demos to keep: "
@@ -383,103 +383,103 @@ REFERENCE			MPUI_AUTORECORD_CAPS
 LANG_RUSSIAN		"AUTOMATIC RECORDING: "
 
 REFERENCE			MENU_SERVER_INFO_CAPS
-LANG_RUSSIAN		"ИНФОРМАЦИЯ О СЕРВЕРЕ"
+LANG_RUSSIAN		"Г€ГЌГ”ГЋГђГЊГЂГ–Г€Гџ ГЋ Г‘Г…ГђГ‚Г…ГђГ…"
 
 REFERENCE			MENU_JOIN_SERVER_CAPS
-LANG_RUSSIAN		"ВХОД В ИГРУ"
+LANG_RUSSIAN		"Г‚Г•ГЋГ„ Г‚ Г€ГѓГђГ“"
 
 REFERENCE			MENU_GAME_SETTINGS_CAPS
-LANG_RUSSIAN		"НАСТРОЙКИ ИГРЫ"
+LANG_RUSSIAN		"ГЌГЂГ‘Г’ГђГЋГ‰ГЉГ€ Г€ГѓГђГ›"
 
 REFERENCE			MENU_CHECK_FOR_UPDATES
-LANG_RUSSIAN		"^3Доступно обновление"
+LANG_RUSSIAN		"^3Г„Г®Г±ГІГіГЇГ­Г® Г®ГЎГ­Г®ГўГ«ГҐГ­ГЁГҐ"
 
 REFERENCE			MENU_CHECK_FOR_UPDATES_CAPS
-LANG_RUSSIAN		"^3ДОСТУПНО ОБНОВЛЕНИЕ"
+LANG_RUSSIAN		"^3Г„ГЋГ‘Г’Г“ГЏГЌГЋ ГЋГЃГЌГЋГ‚Г‹Г…ГЌГ€Г…"
 
 REFERENCE			MPUI_DESC_CHECK_FOR_UPDATES
-LANG_RUSSIAN		"Проверьте вашу версию игры на наличие новой."
+LANG_RUSSIAN		"ГЏГ°Г®ГўГҐГ°ГјГІГҐ ГўГ ГёГі ГўГҐГ°Г±ГЁГѕ ГЁГЈГ°Г» Г­Г  Г­Г Г«ГЁГ·ГЁГҐ Г­Г®ГўГ®Г©."
 
 REFERENCE			MENU_ADD_TO_FAVORITES_CAPS
-LANG_RUSSIAN		"ДОБАВИТЬ В ИЗБРАННОЕ"
+LANG_RUSSIAN		"Г„ГЋГЃГЂГ‚Г€Г’Гњ Г‚ Г€Г‡ГЃГђГЂГЌГЌГЋГ…"
 
 REFERENCE			MENU_DEL_FAVORITE_CAPS
-LANG_RUSSIAN		"УДАЛИТЬ ИЗ ИЗБРАННЫХ"
+LANG_RUSSIAN		"Г“Г„ГЂГ‹Г€Г’Гњ Г€Г‡ Г€Г‡ГЃГђГЂГЌГЌГ›Г•"
 
 REFERENCE			MPUI_DESC_LOGOUT
-LANG_RUSSIAN		"ВЫХОД."
+LANG_RUSSIAN		"Г‚Г›Г•ГЋГ„."
 
 REFERENCE			PLAYERCARDS_TITLE_NO_LAST_STAND
-LANG_RUSSIAN		"Без Последнего Боя!"
+LANG_RUSSIAN		"ГЃГҐГ§ ГЏГ®Г±Г«ГҐГ¤Г­ГҐГЈГ® ГЃГ®Гї!"
 
 REFERENCE			PLATFORM_REFRESH_LIST
-LANG_RUSSIAN		"Обновить список ^0- ^3F5"
+LANG_RUSSIAN		"ГЋГЎГ­Г®ГўГЁГІГј Г±ГЇГЁГ±Г®ГЄ ^0- ^3F5"
 
 REFERENCE			PLATFORM_REFRESH_LIST_CAPS
-LANG_RUSSIAN		"ОБНОВИТЬ СПИСОК ^0- ^3F5"
+LANG_RUSSIAN		"ГЋГЃГЌГЋГ‚Г€Г’Гњ Г‘ГЏГ€Г‘ГЋГЉ ^0- ^3F5"
 
 REFERENCE			PLATFORM_REFRESH
-LANG_RUSSIAN		"Обновить ^0- ^3F5"
+LANG_RUSSIAN		"ГЋГЎГ­Г®ГўГЁГІГј ^0- ^3F5"
 
 REFERENCE			PLATFORM_REFRESH_CAPS
-LANG_RUSSIAN		"ОБНОВИТЬ ^0- ^3F5"
+LANG_RUSSIAN		"ГЋГЃГЌГЋГ‚Г€Г’Гњ ^0- ^3F5"
 
 REFERENCE			MENU_SYNC_NODES
-LANG_RUSSIAN		"Узлы Синхронизации"
+LANG_RUSSIAN		"Г“Г§Г«Г» Г‘ГЁГ­ГµГ°Г®Г­ГЁГ§Г Г¶ГЁГЁ"
 
 REFERENCE			MENU_SYNC_NODES_CAPS
-LANG_RUSSIAN		"УЗЛЫ СИНХРОНИЗАЦИИ"
+LANG_RUSSIAN		"Г“Г‡Г‹Г› Г‘Г€ГЌГ•ГђГЋГЌГ€Г‡ГЂГ–Г€Г€"
 
 REFERENCE			MPUI_MAX_CLIENTS
-LANG_RUSSIAN		"Макс. Число Игроков:"
+LANG_RUSSIAN		"ГЊГ ГЄГ±. Г—ГЁГ±Г«Г® Г€ГЈГ°Г®ГЄГ®Гў:"
 
 REFERENCE			MPUI_MAX_CLIENTS_CAPS
-LANG_RUSSIAN		"МАКС. ЧИСЛО ИГРОКОВ:"
+LANG_RUSSIAN		"ГЊГЂГЉГ‘. Г—Г€Г‘Г‹ГЋ Г€ГѓГђГЋГЉГЋГ‚:"
 
 REFERENCE			MPUI_IS_PRIVATE
-LANG_RUSSIAN		"Защищен паролем:"
+LANG_RUSSIAN		"Г‡Г Г№ГЁГ№ГҐГ­ ГЇГ Г°Г®Г«ГҐГ¬:"
 
 REFERENCE			MPUI_IS_PRIVATE_CAPS
-LANG_RUSSIAN		"ЗАЩИЩЕН ПАРОЛЕМ:"
+LANG_RUSSIAN		"Г‡ГЂГ™Г€Г™Г…ГЌ ГЏГЂГђГЋГ‹Г…ГЊ:"
 
 REFERENCE			MPUI_VERSION
-LANG_RUSSIAN		"Версия:"
+LANG_RUSSIAN		"Г‚ГҐГ°Г±ГЁГї:"
 
 REFERENCE			MPUI_VERSION_CAPS
-LANG_RUSSIAN		"ВЕРСИЯ:"
+LANG_RUSSIAN		"Г‚Г…ГђГ‘Г€Гџ:"
 
 REFERENCE			MPUI_MOD
-LANG_RUSSIAN		"Мод:"
+LANG_RUSSIAN		"ГЊГ®Г¤:"
 
 REFERENCE			MPUI_MOD_CAPS
-LANG_RUSSIAN		"МОД:"
+LANG_RUSSIAN		"ГЊГЋГ„:"
 
 REFERENCE			MP_PICKUP_C4
-LANG_RUSSIAN		"Нажмите и удерживайте ^3[{+activate}]^7 чтобы взять C4"
+LANG_RUSSIAN		"ГЌГ Г¦Г¬ГЁГІГҐ ГЁ ГіГ¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ^3[{+activate}]^7 Г·ГІГ®ГЎГ» ГўГ§ГїГІГј C4"
 
 REFERENCE			MP_PICKUP_CLAYMORE
-LANG_RUSSIAN		"Нажмите и удерживайте ^3[{+activate}]^7 чтобы взять мину Клэймор"
+LANG_RUSSIAN		"ГЌГ Г¦Г¬ГЁГІГҐ ГЁ ГіГ¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ^3[{+activate}]^7 Г·ГІГ®ГЎГ» ГўГ§ГїГІГј Г¬ГЁГ­Гі ГЉГ«ГЅГ©Г¬Г®Г°"
 
 REFERENCE			WEAPON_FAL_GL
-LANG_RUSSIAN		"FAL Подствольный Гранатомёт"
+LANG_RUSSIAN		"FAL ГЏГ®Г¤Г±ГІГўГ®Г«ГјГ­Г»Г© ГѓГ°Г Г­Г ГІГ®Г¬ВёГІ"
 
 REFERENCE			MENU_CUSTOM_TITLE
-LANG_RUSSIAN		"Свой Титул"
+LANG_RUSSIAN		"Г‘ГўГ®Г© Г’ГЁГІГіГ«"
 
 REFERENCE			MENU_CUSTOM_TITLE_CAPS
-LANG_RUSSIAN		"СВОЙ ТИТУЛ"
+LANG_RUSSIAN		"Г‘Г‚ГЋГ‰ Г’Г€Г’Г“Г‹"
 
 REFERENCE			MENU_FOV
-LANG_RUSSIAN		"Угол Обзора"
+LANG_RUSSIAN		"Г“ГЈГ®Г« ГЋГЎГ§Г®Г°Г "
 
 REFERENCE			MENU_FOVSCALE
-LANG_RUSSIAN		"Масштаб Угла Обзора"
+LANG_RUSSIAN		"ГЊГ Г±ГёГІГ ГЎ Г“ГЈГ«Г  ГЋГЎГ§Г®Г°Г "
 
 REFERENCE			MENU_FOV_CAPS
-LANG_RUSSIAN		"УГОЛ ОБЗОРА: "
+LANG_RUSSIAN		"Г“ГѓГЋГ‹ ГЋГЃГ‡ГЋГђГЂ: "
 
 REFERENCE			MENU_FOV_HINT_PC
-LANG_RUSSIAN		"Увеличенный угол обзора может снизить производительность игры на старых компьютерах"
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГҐГ­Г­Г»Г© ГіГЈГ®Г« Г®ГЎГ§Г®Г°Г  Г¬Г®Г¦ГҐГІ Г±Г­ГЁГ§ГЁГІГј ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«ГјГ­Г®Г±ГІГј ГЁГЈГ°Г» Г­Г  Г±ГІГ Г°Г»Гµ ГЄГ®Г¬ГЇГјГѕГІГҐГ°Г Гµ"
 
 REFERENCE			MENU_8X
 LANG_RUSSIAN		"8x"
@@ -488,223 +488,223 @@ REFERENCE			MENU_16X
 LANG_RUSSIAN		"16x"
 
 REFERENCE			MENU_FPS_0
-LANG_RUSSIAN		"ВЫКЛ: 0"
+LANG_RUSSIAN		"Г‚Г›ГЉГ‹: 0"
 
 REFERENCE			MENU_FPS_1
-LANG_RUSSIAN		"ВКЛ: 1"
+LANG_RUSSIAN		"Г‚ГЉГ‹: 1"
 
 REFERENCE			MENU_FPS_2
-LANG_RUSSIAN		"ВКЛ: 2"
+LANG_RUSSIAN		"Г‚ГЉГ‹: 2"
 
 REFERENCE			MENU_FPS_3
-LANG_RUSSIAN		"ВКЛ: 3"
+LANG_RUSSIAN		"Г‚ГЉГ‹: 3"
 
 REFERENCE			MENU_FPS_4
-LANG_RUSSIAN		"ВКЛ: 4"
+LANG_RUSSIAN		"Г‚ГЉГ‹: 4"
 
 REFERENCE			MENU_FPS_CAP
-LANG_RUSSIAN		"Ограничение FPS"
+LANG_RUSSIAN		"ГЋГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГҐ FPS"
 
 REFERENCE			MENU_FPS_DRAW
-LANG_RUSSIAN		"Показывать FPS"
+LANG_RUSSIAN		"ГЏГ®ГЄГ Г§Г»ГўГ ГІГј FPS"
 
 REFERENCE			MENU_FPS_LABELS
-LANG_RUSSIAN		"Доп. Информация FPS"
+LANG_RUSSIAN		"Г„Г®ГЇ. Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї FPS"
 
 REFERENCE			MENU_SCREEN_OPTIONS
-LANG_RUSSIAN		"Настройки Экрана"
+LANG_RUSSIAN		"ГЌГ Г±ГІГ°Г®Г©ГЄГЁ ГќГЄГ°Г Г­Г "
 
 REFERENCE			MENU_BORDERLESS
-LANG_RUSSIAN		"Оконный без рамки"
+LANG_RUSSIAN		"ГЋГЄГ®Г­Г­Г»Г© ГЎГҐГ§ Г°Г Г¬ГЄГЁ"
 
 REFERENCE			MENU_FULLSCREEN
-LANG_RUSSIAN		"Полный Экран"
+LANG_RUSSIAN		"ГЏГ®Г«Г­Г»Г© ГќГЄГ°Г Г­"
 
 REFERENCE			MENU_XAXIS
-LANG_RUSSIAN		"Окно по оси X"
+LANG_RUSSIAN		"ГЋГЄГ­Г® ГЇГ® Г®Г±ГЁ X"
 
 REFERENCE			MENU_YAXIS
-LANG_RUSSIAN		"Окно по оси Y"
+LANG_RUSSIAN		"ГЋГЄГ­Г® ГЇГ® Г®Г±ГЁ Y"
 
 REFERENCE			MENU_AAALPHA
-LANG_RUSSIAN		"Альфа Сглаживание"
+LANG_RUSSIAN		"ГЂГ«ГјГґГ  Г‘ГЈГ«Г Г¦ГЁГўГ Г­ГЁГҐ"
 
 REFERENCE			MENU_AAA_DITHER
-LANG_RUSSIAN		"Размывание (Плохо)"
+LANG_RUSSIAN		"ГђГ Г§Г¬Г»ГўГ Г­ГЁГҐ (ГЏГ«Г®ГµГ®)"
 
 REFERENCE			MENU_AAA_SUPER
-LANG_RUSSIAN		"Супер Сэмплированный (Хорошо)"
+LANG_RUSSIAN		"Г‘ГіГЇГҐГ° Г‘ГЅГ¬ГЇГ«ГЁГ°Г®ГўГ Г­Г­Г»Г© (Г•Г®Г°Г®ГёГ®)"
 
 REFERENCE			MENU_AA_MAXQUALITY
-LANG_RUSSIAN		"Качество Сглаживания"
+LANG_RUSSIAN		"ГЉГ Г·ГҐГ±ГІГўГ® Г‘ГЈГ«Г Г¦ГЁГўГ Г­ГЁГї"
 
 REFERENCE			MENU_SCROLL_UP
-LANG_RUSSIAN		"^3ПРОКРУТИТЬ ВВЕРХ"
+LANG_RUSSIAN		"^3ГЏГђГЋГЉГђГ“Г’Г€Г’Гњ Г‚Г‚Г…ГђГ•"
 
 REFERENCE			MENU_SCROLL_DOWN
-LANG_RUSSIAN		"^3ПРОКРУТИТЬ ВНИЗ"
+LANG_RUSSIAN		"^3ГЏГђГЋГЉГђГ“Г’Г€Г’Гњ Г‚ГЌГ€Г‡"
 
 REFERENCE			MENU_NOBORDER
-LANG_RUSSIAN		"Отключить края экрана"
+LANG_RUSSIAN		"ГЋГІГЄГ«ГѕГ·ГЁГІГј ГЄГ°Г Гї ГЅГЄГ°Г Г­Г "
 
 REFERENCE			MENU_MAXPACKETS
-LANG_RUSSIAN		"Макс. число пакетов на кадр"
+LANG_RUSSIAN		"ГЊГ ГЄГ±. Г·ГЁГ±Г«Г® ГЇГ ГЄГҐГІГ®Гў Г­Г  ГЄГ Г¤Г°"
 
 REFERENCE			MENU_SNAPS
-LANG_RUSSIAN		"Частота снапшота"
+LANG_RUSSIAN		"Г—Г Г±ГІГ®ГІГ  Г±Г­Г ГЇГёГ®ГІГ "
 
 REFERENCE			MENU_LAGOMETER
-LANG_RUSSIAN		"Показывать Лагометр"
+LANG_RUSSIAN		"ГЏГ®ГЄГ Г§Г»ГўГ ГІГј Г‹Г ГЈГ®Г¬ГҐГІГ°"
 
 REFERENCE			MENU_DRAWFPS
-LANG_RUSSIAN		"Показывать FPS"
+LANG_RUSSIAN		"ГЏГ®ГЄГ Г§Г»ГўГ ГІГј FPS"
 
 REFERENCE			MENU_FPSLABELS
-LANG_RUSSIAN		"Доп. Информация FPS"
+LANG_RUSSIAN		"Г„Г®ГЇ. Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї FPS"
 
 REFERENCE			MENU_NEWCOLORS
-LANG_RUSSIAN		"Использовать новые коды цветов"
+LANG_RUSSIAN		"Г€Г±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Г­Г®ГўГ»ГҐ ГЄГ®Г¤Г» Г¶ГўГҐГІГ®Гў"
 
 REFERENCE			MENU_NEWCOLORS
-LANG_RUSSIAN		"Использовать новые коды цветов"
+LANG_RUSSIAN		"Г€Г±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Г­Г®ГўГ»ГҐ ГЄГ®Г¤Г» Г¶ГўГҐГІГ®Гў"
 
 REFERENCE			MENU_CHANGELOG
-LANG_RUSSIAN		"Изменения"
+LANG_RUSSIAN		"Г€Г§Г¬ГҐГ­ГҐГ­ГЁГї"
 
 REFERENCE			MENU_CHANGELOG_CAPS
-LANG_RUSSIAN		"ИЗМЕНЕНИЯ"
+LANG_RUSSIAN		"Г€Г‡ГЊГ…ГЌГ…ГЌГ€Гџ"
 
 REFERENCE			MPUI_DESC_CHANGELOG
-LANG_RUSSIAN		"Посмотреть, что нового."
+LANG_RUSSIAN		"ГЏГ®Г±Г¬Г®ГІГ°ГҐГІГј, Г·ГІГ® Г­Г®ГўГ®ГЈГ®."
 
 REFERENCE			MPUI_DESC_CHANGELOG
-LANG_RUSSIAN		"Посмотреть, что нового."
+LANG_RUSSIAN		"ГЏГ®Г±Г¬Г®ГІГ°ГҐГІГј, Г·ГІГ® Г­Г®ГўГ®ГЈГ®."
 
 REFERENCE			MPUI_DESC_NOBORDER
-LANG_RUSSIAN		"Не использовать рамки в оконном режиме."
+LANG_RUSSIAN		"ГЌГҐ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Г°Г Г¬ГЄГЁ Гў Г®ГЄГ®Г­Г­Г®Г¬ Г°ГҐГ¦ГЁГ¬ГҐ."
 
 REFERENCE			MPUI_DESC_NATIVECURSOR
-LANG_RUSSIAN		"Отоброжать нативный курсор заместо игрового."
+LANG_RUSSIAN		"ГЋГІГ®ГЎГ°Г®Г¦Г ГІГј Г­Г ГІГЁГўГ­Г»Г© ГЄГіГ°Г±Г®Г° Г§Г Г¬ГҐГ±ГІГ® ГЁГЈГ°Г®ГўГ®ГЈГ®."
 
 REFERENCE			MPUI_DESC_FOV
-LANG_RUSSIAN		"Увеличьте ваш угол обзора."
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГјГІГҐ ГўГ Гё ГіГЈГ®Г« Г®ГЎГ§Г®Г°Г ."
 
 REFERENCE			MPUI_DESC_CUSTOM_TITLE
-LANG_RUSSIAN		"Изменить текст вашего титула"
+LANG_RUSSIAN		"Г€Г§Г¬ГҐГ­ГЁГІГј ГІГҐГЄГ±ГІ ГўГ ГёГҐГЈГ® ГІГЁГІГіГ«Г "
 
 REFERENCE			MPUI_DESC_FOVSCALE
-LANG_RUSSIAN		"Увеличьте масштаб угла обзора, так-же изменяет наводку."
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГјГІГҐ Г¬Г Г±ГёГІГ ГЎ ГіГЈГ«Г  Г®ГЎГ§Г®Г°Г , ГІГ ГЄ-Г¦ГҐ ГЁГ§Г¬ГҐГ­ГїГҐГІ Г­Г ГўГ®Г¤ГЄГі."
 
 REFERENCE			MPUI_DESC_NEWCOLORS
-LANG_RUSSIAN		"Использовать новые стили цветов из ^2Warfare2."
+LANG_RUSSIAN		"Г€Г±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Г­Г®ГўГ»ГҐ Г±ГІГЁГ«ГЁ Г¶ГўГҐГІГ®Гў ГЁГ§ ^2Warfare2."
 
 REFERENCE			MPUI_DESC_AUTORECORD
-LANG_RUSSIAN		"Записывать ваши матчи автоматически."
+LANG_RUSSIAN		"Г‡Г ГЇГЁГ±Г»ГўГ ГІГј ГўГ ГёГЁ Г¬Г ГІГ·ГЁ Г ГўГІГ®Г¬Г ГІГЁГ·ГҐГ±ГЄГЁ."
 
 REFERENCE			MPUI_DESC_DEMOS_KEEP
-LANG_RUSSIAN		"Кол-во максимальных записанных матчей, прошлые будут удалятся."
+LANG_RUSSIAN		"ГЉГ®Г«-ГўГ® Г¬Г ГЄГ±ГЁГ¬Г Г«ГјГ­Г»Гµ Г§Г ГЇГЁГ±Г Г­Г­Г»Гµ Г¬Г ГІГ·ГҐГ©, ГЇГ°Г®ГёГ«Г»ГҐ ГЎГіГ¤ГіГІ ГіГ¤Г Г«ГїГІГ±Гї."
 
 REFERENCE			MENU_MAXFPS
-LANG_RUSSIAN		"Максимальный FPS"
+LANG_RUSSIAN		"ГЊГ ГЄГ±ГЁГ¬Г Г«ГјГ­Г»Г© FPS"
 
 REFERENCE			MPUI_DESC_MAXFPS
-LANG_RUSSIAN		"Измените ваше кол-во FPS."
+LANG_RUSSIAN		"Г€Г§Г¬ГҐГ­ГЁГІГҐ ГўГ ГёГҐ ГЄГ®Г«-ГўГ® FPS."
 
 REFERENCE			MENU_SEARCHINGFORGAMES_100MS
 LANG_RUSSIAN		""
 
 REFERENCE			MP_SEARCHING_FOR_PLAYER
-LANG_RUSSIAN		"Ожидание"
+LANG_RUSSIAN		"ГЋГ¦ГЁГ¤Г Г­ГЁГҐ"
 
 REFERENCE			MENU_WAITING_FOR_MORE_PLAYERS_TEAMS
-LANG_RUSSIAN		"Ожидание игроков для баланса команд"
+LANG_RUSSIAN		"ГЋГ¦ГЁГ¤Г Г­ГЁГҐ ГЁГЈГ°Г®ГЄГ®Гў Г¤Г«Гї ГЎГ Г«Г Г­Г±Г  ГЄГ®Г¬Г Г­Г¤"
 
 REFERENCE			MENU_GAME
-LANG_RUSSIAN		"Игра"
+LANG_RUSSIAN		"Г€ГЈГ°Г "
 
 REFERENCE			MENU_GAME_CAPS
-LANG_RUSSIAN		"ИГРА"
+LANG_RUSSIAN		"Г€ГѓГђГЂ"
 
 REFERENCE			MENU_MOTD
-LANG_RUSSIAN		"Новости"
+LANG_RUSSIAN		"ГЌГ®ГўГ®Г±ГІГЁ"
 
 REFERENCE			MENU_MOTD_CAPS
-LANG_RUSSIAN		"НОВОСТИ"
+LANG_RUSSIAN		"ГЌГЋГ‚ГЋГ‘Г’Г€"
 
 REFERENCE			MENU_AUTORECORD
-LANG_RUSSIAN		"Автоматическая Запись"
+LANG_RUSSIAN		"ГЂГўГІГ®Г¬Г ГІГЁГ·ГҐГ±ГЄГ Гї Г‡Г ГЇГЁГ±Гј"
 
 REFERENCE			MENU_AUTORECORD_CAPS
-LANG_RUSSIAN		"АВТОМАТИЧЕСКАЯ ЗАПИСЬ"
+LANG_RUSSIAN		"ГЂГ‚Г’ГЋГЊГЂГ’Г€Г—Г…Г‘ГЉГЂГџ Г‡ГЂГЏГ€Г‘Гњ"
 
 REFERENCE			MENU_DEMOS_KEEP
-LANG_RUSSIAN		"Число макс. количества матчей"
+LANG_RUSSIAN		"Г—ГЁГ±Г«Г® Г¬Г ГЄГ±. ГЄГ®Г«ГЁГ·ГҐГ±ГІГўГ  Г¬Г ГІГ·ГҐГ©"
 
 REFERENCE			MENU_DEMOS_KEEP_CAPS
-LANG_RUSSIAN		"ЧИСЛО МАКС. КОЛИЧЕСТВА МАТЧЕЙ"
+LANG_RUSSIAN		"Г—Г€Г‘Г‹ГЋ ГЊГЂГЉГ‘. ГЉГЋГ‹Г€Г—Г…Г‘Г’Г‚ГЂ ГЊГЂГ’Г—Г…Г‰"
 
 REFERENCE			MPUI_DEMO_AUTHOR
-LANG_RUSSIAN		"Автор:"
+LANG_RUSSIAN		"ГЂГўГІГ®Г°:"
 
 REFERENCE			MPUI_DEMO_AUTHOR_CAPS
-LANG_RUSSIAN		"АВТОР:"
+LANG_RUSSIAN		"ГЂГ‚Г’ГЋГђ:"
 
 REFERENCE			MPUI_DEMO_LENGTH
-LANG_RUSSIAN		"Длина:"
+LANG_RUSSIAN		"Г„Г«ГЁГ­Г :"
 
 REFERENCE			MPUI_DEMO_LENGTH_CAPS
-LANG_RUSSIAN		"ДЛИНА:"
+LANG_RUSSIAN		"Г„Г‹Г€ГЌГЂ:"
 
 REFERENCE			MPUI_DEMO_DATE
-LANG_RUSSIAN		"Дата:"
+LANG_RUSSIAN		"Г„Г ГІГ :"
 
 REFERENCE			MPUI_DEMO_DATE_CAPS
-LANG_RUSSIAN		"ДАТА:"
+LANG_RUSSIAN		"Г„ГЂГ’ГЂ:"
 
 REFERENCE			MPUI_DEMO_CREATED
-LANG_RUSSIAN		"Создано:"
+LANG_RUSSIAN		"Г‘Г®Г§Г¤Г Г­Г®:"
 
 REFERENCE			MPUI_DEMO_CREATED_CAPS
-LANG_RUSSIAN		"СОЗДАНО:"
+LANG_RUSSIAN		"Г‘ГЋГ‡Г„ГЂГЌГЋ:"
 
 REFERENCE			MENU_D3D9EX
 LANG_RUSSIAN		"Direct3D 9Ex"
 
 REFERENCE			MPUI_DESC_D3D9EX
-LANG_RUSSIAN		"Использовать Direct3D 9Ex."
+LANG_RUSSIAN		"Г€Г±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Direct3D 9Ex."
 
 REFERENCE			MPUI_SECURITY_LEVEL
-LANG_RUSSIAN		"Уровень Безопасности:"
+LANG_RUSSIAN		"Г“Г°Г®ГўГҐГ­Гј ГЃГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ:"
 
 REFERENCE			MPUI_SECURITY_LEVEL_CAPS
-LANG_RUSSIAN		"УРОВЕНЬ БЕЗОПАСНОСТИ:"
+LANG_RUSSIAN		"Г“ГђГЋГ‚Г…ГЌГњ ГЃГ…Г‡ГЋГЏГЂГ‘ГЌГЋГ‘Г’Г€:"
 
 REFERENCE			MENU_FRIEND_ADD
-LANG_RUSSIAN		"Добавить Друга"
+LANG_RUSSIAN		"Г„Г®ГЎГ ГўГЁГІГј Г„Г°ГіГЈГ "
 
 REFERENCE			MENU_FRIEND_ADD_CAPS
-LANG_RUSSIAN		"ДОБАВИТЬ ДРУГА"
+LANG_RUSSIAN		"Г„ГЋГЃГЂГ‚Г€Г’Гњ Г„ГђГ“ГѓГЂ"
 
 REFERENCE			MPUI_NA
-LANG_RUSSIAN		"^3Недоступно в данный момент."
+LANG_RUSSIAN		"^3ГЌГҐГ¤Г®Г±ГІГіГЇГ­Г® Гў Г¤Г Г­Г­Г»Г© Г¬Г®Г¬ГҐГ­ГІ."
 
 REFERENCE			EXE_PROGRESS
-LANG_RUSSIAN		"Прогресс:"
+LANG_RUSSIAN		"ГЏГ°Г®ГЈГ°ГҐГ±Г±:"
 
 REFERENCE			MPUI_DOWNLOADING
-LANG_RUSSIAN		"Скачивание"
+LANG_RUSSIAN		"Г‘ГЄГ Г·ГЁГўГ Г­ГЁГҐ"
 
 REFERENCE			MPUI_DOWNLOADING_CAPS
-LANG_RUSSIAN		"СКАЧИВАНИЕ"
+LANG_RUSSIAN		"Г‘ГЉГЂГ—Г€Г‚ГЂГЌГ€Г…"
 
 REFERENCE			MPUI_SECURITY_INCREASE_MESSAGE
-LANG_RUSSIAN		"Увеличиваем уровень безопасности с %d до %d (est. %s)"
+LANG_RUSSIAN		"Г“ГўГҐГ«ГЁГ·ГЁГўГ ГҐГ¬ ГіГ°Г®ГўГҐГ­Гј ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ Г± %d Г¤Г® %d (est. %s)"
 
 REFERENCE			MPUI_SECURITY_NEW_LEVEL_MESSAGE
-LANG_RUSSIAN		"Ваш новый уровень безопасности это %d"
+LANG_RUSSIAN		"Г‚Г Гё Г­Г®ГўГ»Г© ГіГ°Г®ГўГҐГ­Гј ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ ГЅГІГ® %d"
 
 REFERENCE			MPUI_SECURITY_LEVEL_MESSAGE
-LANG_RUSSIAN		"Ваш уровень безопасности это %d"
+LANG_RUSSIAN		"Г‚Г Гё ГіГ°Г®ГўГҐГ­Гј ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ ГЅГІГ® %d"
 
 REFERENCE			ERR_INVALID_CONNECT_PACKET
 LANG_RUSSIAN		"Invalid connect packet!"
@@ -719,10 +719,10 @@ REFERENCE			ERR_INVALID_CONNECT_STRING
 LANG_RUSSIAN		"Invalid connect string!"
 
 REFERENCE			ERR_XUID_CERTIFICATE_MISMATCH
-LANG_RUSSIAN		"XUID не совпадает с сертификатом!"
+LANG_RUSSIAN		"XUID Г­ГҐ Г±Г®ГўГЇГ Г¤Г ГҐГІ Г± Г±ГҐГ°ГІГЁГґГЁГЄГ ГІГ®Г¬!"
 
 REFERENCE			ERR_INVALID_CHALLENGE_SIGNATURE
-LANG_RUSSIAN		"Подпись запроса была недействительной!"
+LANG_RUSSIAN		"ГЏГ®Г¤ГЇГЁГ±Гј Г§Г ГЇГ°Г®Г±Г  ГЎГ»Г«Г  Г­ГҐГ¤ГҐГ©Г±ГІГўГЁГІГҐГ«ГјГ­Г®Г©!"
 
 REFERENCE			PATCH_DLC1
 LANG_RUSSIAN		"Stimulus Pack"
@@ -773,243 +773,312 @@ REFERENCE			PATCH_DESC_DLC8
 LANG_RUSSIAN		"Too much 'pew pew' not enough new new. - R. Bowling"
 
 REFERENCE			MENU_STREAMFRIENDLY_UI
-LANG_RUSSIAN		"Показывать интерфейс друзей"
+LANG_RUSSIAN		"ГЏГ®ГЄГ Г§Г»ГўГ ГІГј ГЁГ­ГІГҐГ°ГґГҐГ©Г± Г¤Г°ГіГ§ГҐГ©"
 
 REFERENCE			MPUI_DESC_STREAM_FRIENDLY_UI
-LANG_RUSSIAN		"Скрыть информацию о сервере и уведомления от друзей."
+LANG_RUSSIAN		"Г‘ГЄГ°Г»ГІГј ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГѕ Г® Г±ГҐГ°ГўГҐГ°ГҐ ГЁ ГіГўГҐГ¤Г®Г¬Г«ГҐГ­ГЁГї Г®ГІ Г¤Г°ГіГ§ГҐГ©."
 
 REFERENCE			QUICKMESSAGE_QUICK_MESSAGE
-LANG_RUSSIAN		"Быстрые сообщения"
+LANG_RUSSIAN		"ГЃГ»Г±ГІГ°Г»ГҐ Г±Г®Г®ГЎГ№ГҐГ­ГЁГї"
 
 REFERENCE			QUICKMESSAGE_1_COMMANDS
-LANG_RUSSIAN		"1. Команды"
+LANG_RUSSIAN		"1. ГЉГ®Г¬Г Г­Г¤Г»"
 
 REFERENCE			QUICKMESSAGE_2_STATEMENTS
-LANG_RUSSIAN		"2. Высказывания"
+LANG_RUSSIAN		"2. Г‚Г»Г±ГЄГ Г§Г»ГўГ Г­ГЁГї"
 
 REFERENCE			QUICKMESSAGE_3_RESPONSES
-LANG_RUSSIAN		"3. Ответы"
+LANG_RUSSIAN		"3. ГЋГІГўГҐГІГ»"
 
 REFERENCE			QUICKMESSAGE_ESC_EXIT
-LANG_RUSSIAN		"Esc. Выход"
+LANG_RUSSIAN		"Esc. Г‚Г»ГµГ®Г¤"
 
 REFERENCE			QUICKMESSAGE_1_FOLLOW_ME
-LANG_RUSSIAN		"1. За мной!"
+LANG_RUSSIAN		"1. Г‡Г  Г¬Г­Г®Г©!"
 
 REFERENCE			QUICKMESSAGE_2_MOVE_IN
-LANG_RUSSIAN		"2. Двигаемся!"
+LANG_RUSSIAN		"2. Г„ГўГЁГЈГ ГҐГ¬Г±Гї!"
 
 REFERENCE			QUICKMESSAGE_3_FALL_BACK
-LANG_RUSSIAN		"3. Отступаем!"
+LANG_RUSSIAN		"3. ГЋГІГ±ГІГіГЇГ ГҐГ¬!"
 
 REFERENCE			QUICKMESSAGE_4_SUPPRESSING_FIRE
-LANG_RUSSIAN		"4. Смотрите за огнём!"
+LANG_RUSSIAN		"4. Г‘Г¬Г®ГІГ°ГЁГІГҐ Г§Г  Г®ГЈГ­ВёГ¬!"
 
 REFERENCE			QUICKMESSAGE_5_ATTACK_LEFT_FLANK
-LANG_RUSSIAN		"5. Атакуем левый фланг!"
+LANG_RUSSIAN		"5. ГЂГІГ ГЄГіГҐГ¬ Г«ГҐГўГ»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
-LANG_RUSSIAN		"6. Атакуем правый фланг!"
+LANG_RUSSIAN		"6. ГЂГІГ ГЄГіГҐГ¬ ГЇГ°Г ГўГ»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_7_HOLD_THIS_POSITION
-LANG_RUSSIAN		"7. Удерживайте эту позицию!"
+LANG_RUSSIAN		"7. Г“Г¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ГЅГІГі ГЇГ®Г§ГЁГ¶ГЁГѕ!"
 
 REFERENCE			QUICKMESSAGE_8_REGROUP
-LANG_RUSSIAN		"8. Перегруппироваться!"
+LANG_RUSSIAN		"8. ГЏГҐГ°ГҐГЈГ°ГіГЇГЇГЁГ°Г®ГўГ ГІГјГ±Гї!"
 
 REFERENCE			QUICKMESSAGE_1_ENEMY_SPOTTED
-LANG_RUSSIAN		"1. Контакт!"
+LANG_RUSSIAN		"1. ГЉГ®Г­ГІГ ГЄГІ!"
 
 REFERENCE			QUICKMESSAGE_2_ENEMY_DOWN
-LANG_RUSSIAN		"2. Враг повержен!"
+LANG_RUSSIAN		"2. Г‚Г°Г ГЈ ГЇГ®ГўГҐГ°Г¦ГҐГ­!"
 
 REFERENCE			QUICKMESSAGE_3_IM_IN_POSITION
-LANG_RUSSIAN		"3. На позиции."
+LANG_RUSSIAN		"3. ГЌГ  ГЇГ®Г§ГЁГ¶ГЁГЁ."
 
 REFERENCE			QUICKMESSAGE_4_AREA_SECURE
-LANG_RUSSIAN		"4. Зона в безопасности!"
+LANG_RUSSIAN		"4. Г‡Г®Г­Г  Гў ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ!"
 
 REFERENCE			QUICKMESSAGE_5_GRENADE
-LANG_RUSSIAN		"5. Граната!"
+LANG_RUSSIAN		"5. ГѓГ°Г Г­Г ГІГ !"
 
 REFERENCE			QUICKMESSAGE_6_SNIPER
-LANG_RUSSIAN		"6. Снайпер!"
+LANG_RUSSIAN		"6. Г‘Г­Г Г©ГЇГҐГ°!"
 
 REFERENCE			QUICKMESSAGE_7_NEED_REINFORCEMENTS
-LANG_RUSSIAN		"7. Нужно подкрепление!"
+LANG_RUSSIAN		"7. ГЌГіГ¦Г­Г® ГЇГ®Г¤ГЄГ°ГҐГЇГ«ГҐГ­ГЁГҐ!"
 
 REFERENCE			QUICKMESSAGE_8_HOLD_YOUR_FIRE
-LANG_RUSSIAN		"8. Прекратить огонь!"
+LANG_RUSSIAN		"8. ГЏГ°ГҐГЄГ°Г ГІГЁГІГј Г®ГЈГ®Г­Гј!"
 
 REFERENCE			QUICKMESSAGE_1_YES_SIR
-LANG_RUSSIAN		"1. Вас Понял."
+LANG_RUSSIAN		"1. Г‚Г Г± ГЏГ®Г­ГїГ«."
 
 REFERENCE			QUICKMESSAGE_2_NO_SIR
-LANG_RUSSIAN		"2. Нет."
+LANG_RUSSIAN		"2. ГЌГҐГІ."
 
 REFERENCE			QUICKMESSAGE_3_IM_ON_MY_WAY
-LANG_RUSSIAN		"3. Двигаюсь."
+LANG_RUSSIAN		"3. Г„ГўГЁГЈГ ГѕГ±Гј."
 
 REFERENCE			QUICKMESSAGE_3_ON_MY_WAY
-LANG_RUSSIAN		"3. За мной."
+LANG_RUSSIAN		"3. Г‡Г  Г¬Г­Г®Г©."
 
 REFERENCE			QUICKMESSAGE_4_SORRY
-LANG_RUSSIAN		"4. Извини."
+LANG_RUSSIAN		"4. Г€Г§ГўГЁГ­ГЁ."
 
 REFERENCE			QUICKMESSAGE_5_GREAT_SHOT
-LANG_RUSSIAN		"5. Отличный выстрел!"
+LANG_RUSSIAN		"5. ГЋГІГ«ГЁГ·Г­Г»Г© ГўГ»Г±ГІГ°ГҐГ«!"
 
 REFERENCE			QUICKMESSAGE_6_TOOK_LONG_ENOUGH
-LANG_RUSSIAN		"6. Бегом!"
+LANG_RUSSIAN		"6. ГЃГҐГЈГ®Г¬!"
 
 REFERENCE			QUICKMESSAGE_7_ARE_YOU_CRAZY
-LANG_RUSSIAN		"7. Ты чокнутый?"
+LANG_RUSSIAN		"7. Г’Г» Г·Г®ГЄГ­ГіГІГ»Г©?"
 
 REFERENCE			QUICKMESSAGE_FOLLOW_ME
-LANG_RUSSIAN		"За мной!"
+LANG_RUSSIAN		"Г‡Г  Г¬Г­Г®Г©!"
 
 REFERENCE			QUICKMESSAGE_MOVE_IN
-LANG_RUSSIAN		"Двигаемся!"
+LANG_RUSSIAN		"Г„ГўГЁГЈГ ГҐГ¬Г±Гї!"
 
 REFERENCE			QUICKMESSAGE_FALL_BACK
-LANG_RUSSIAN		"Отступаем!"
+LANG_RUSSIAN		"ГЋГІГ±ГІГіГЇГ ГҐГ¬!"
 
 REFERENCE			QUICKMESSAGE_SUPPRESSING_FIRE
-LANG_RUSSIAN		"Смотрите за огнём!"
+LANG_RUSSIAN		"Г‘Г¬Г®ГІГ°ГЁГІГҐ Г§Г  Г®ГЈГ­ВёГ¬!"
 
 REFERENCE			QUICKMESSAGE_ATTACK_RIGHT_FLANK
-LANG_RUSSIAN		"Атакуем правный фланг!"
+LANG_RUSSIAN		"ГЂГІГ ГЄГіГҐГ¬ ГЇГ°Г ГўГ­Г»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_ATTACK_LEFT_FLANK
-LANG_RUSSIAN		"Атакуем левый фланг!"
+LANG_RUSSIAN		"ГЂГІГ ГЄГіГҐГ¬ Г«ГҐГўГ»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_HOLD_THIS_POSITION
-LANG_RUSSIAN		"Удерживайте эту позицию!"
+LANG_RUSSIAN		"Г“Г¤ГҐГ°Г¦ГЁГўГ Г©ГІГҐ ГЅГІГі ГЇГ®Г§ГЁГ¶ГЁГѕ!"
 
 REFERENCE			QUICKMESSAGE_REGROUP
-LANG_RUSSIAN		"Перегруппироваться!"
+LANG_RUSSIAN		"ГЏГҐГ°ГҐГЈГ°ГіГЇГЇГЁГ°Г®ГўГ ГІГјГ±Гї!"
 
 REFERENCE			QUICKMESSAGE_STICK_TOGETHER
-LANG_RUSSIAN		"Держаться вместе!"
+LANG_RUSSIAN		"Г„ГҐГ°Г¦Г ГІГјГ±Гї ГўГ¬ГҐГ±ГІГҐ!"
 
 REFERENCE			QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
-LANG_RUSSIAN		"Отряд, атакуем правый фланг!"
+LANG_RUSSIAN		"ГЋГІГ°ГїГ¤, Г ГІГ ГЄГіГҐГ¬ ГЇГ°Г ГўГ»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
-LANG_RUSSIAN		"Отряд, атакуем левый фланг!"
+LANG_RUSSIAN		"ГЋГІГ°ГїГ¤, Г ГІГ ГЄГіГҐГ¬ Г«ГҐГўГ»Г© ГґГ«Г Г­ГЈ!"
 
 REFERENCE			QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
-LANG_RUSSIAN		"Отряд, удерживаем эту позицию!"
+LANG_RUSSIAN		"ГЋГІГ°ГїГ¤, ГіГ¤ГҐГ°Г¦ГЁГўГ ГҐГ¬ ГЅГІГі ГЇГ®Г§ГЁГ¶ГЁГѕ!"
 
 REFERENCE			QUICKMESSAGE_SQUAD_REGROUP
-LANG_RUSSIAN		"Отряд, перегруппироваться!"
+LANG_RUSSIAN		"ГЋГІГ°ГїГ¤, ГЇГҐГ°ГҐГЈГ°ГіГЇГЇГЁГ°Г®ГўГ ГІГјГ±Гї!"
 
 REFERENCE			QUICKMESSAGE_SQUAD_STICK_TOGETHER
-LANG_RUSSIAN		"Отряд, двигаемся вместе!"
+LANG_RUSSIAN		"ГЋГІГ°ГїГ¤, Г¤ГўГЁГЈГ ГҐГ¬Г±Гї ГўГ¬ГҐГ±ГІГҐ!"
 
 REFERENCE			QUICKMESSAGE_ENEMY_SPOTTED
-LANG_RUSSIAN		"Контакт!"
+LANG_RUSSIAN		"ГЉГ®Г­ГІГ ГЄГІ!"
 
 REFERENCE			QUICKMESSAGE_ENEMY_DOWN
-LANG_RUSSIAN		"Враг повержен!"
+LANG_RUSSIAN		"Г‚Г°Г ГЈ ГЇГ®ГўГҐГ°Г¦ГҐГ­!"
 
 REFERENCE			QUICKMESSAGE_IM_IN_POSITION
-LANG_RUSSIAN		"На позиции."
+LANG_RUSSIAN		"ГЌГ  ГЇГ®Г§ГЁГ¶ГЁГЁ."
 
 REFERENCE			QUICKMESSAGE_AREA_SECURE
-LANG_RUSSIAN		"Зона в безопасности!"
+LANG_RUSSIAN		"Г‡Г®Г­Г  Гў ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГЁ!"
 
 REFERENCE			QUICKMESSAGE_GRENADE
-LANG_RUSSIAN		"Граната!"
+LANG_RUSSIAN		"ГѓГ°Г Г­Г ГІГ !"
 
 REFERENCE			QUICKMESSAGE_ENEMY_GRENADE
-LANG_RUSSIAN		"Граната Врага!"
+LANG_RUSSIAN		"ГѓГ°Г Г­Г ГІГ  Г‚Г°Г ГЈГ !"
 
 REFERENCE			QUICKMESSAGE_SNIPER
-LANG_RUSSIAN		"Снайпер!"
+LANG_RUSSIAN		"Г‘Г­Г Г©ГЇГҐГ°!"
 
 REFERENCE			QUICKMESSAGE_NEED_REINFORCEMENTS
-LANG_RUSSIAN		"Нужно подкрепление!"
+LANG_RUSSIAN		"ГЌГіГ¦Г­Г® ГЇГ®Г¤ГЄГ°ГҐГЇГ«ГҐГ­ГЁГҐ!"
 
 REFERENCE			QUICKMESSAGE_HOLD_YOUR_FIRE
-LANG_RUSSIAN		"Прекратить огонь!"
+LANG_RUSSIAN		"ГЏГ°ГҐГЄГ°Г ГІГЁГІГј Г®ГЈГ®Г­Гј!"
 
 REFERENCE			QUICKMESSAGE_YES_SIR
-LANG_RUSSIAN		"Вас Понял."
+LANG_RUSSIAN		"Г‚Г Г± ГЏГ®Г­ГїГ«."
 
 REFERENCE			QUICKMESSAGE_NO_SIR
-LANG_RUSSIAN		"Нет."
+LANG_RUSSIAN		"ГЌГҐГІ."
 
 REFERENCE			QUICKMESSAGE_IM_ON_MY_WAY
-LANG_RUSSIAN		"Двигаюсь."
+LANG_RUSSIAN		"Г„ГўГЁГЈГ ГѕГ±Гј."
 
 REFERENCE			QUICKMESSAGE_ON_MY_WAY
-LANG_RUSSIAN		"За мной."
+LANG_RUSSIAN		"Г‡Г  Г¬Г­Г®Г©."
 
 REFERENCE			QUICKMESSAGE_SORRY
-LANG_RUSSIAN		"Извини."
+LANG_RUSSIAN		"Г€Г§ГўГЁГ­ГЁ."
 
 REFERENCE			QUICKMESSAGE_GREAT_SHOT
-LANG_RUSSIAN		"Отличный Выстрел!"
+LANG_RUSSIAN		"ГЋГІГ«ГЁГ·Г­Г»Г© Г‚Г»Г±ГІГ°ГҐГ«!"
 
 REFERENCE			QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
-LANG_RUSSIAN		"Это заняло у тебя достаточно много времени!"
+LANG_RUSSIAN		"ГќГІГ® Г§Г Г­ГїГ«Г® Гі ГІГҐГЎГї Г¤Г®Г±ГІГ ГІГ®Г·Г­Г® Г¬Г­Г®ГЈГ® ГўГ°ГҐГ¬ГҐГ­ГЁ!"
 
 REFERENCE			QUICKMESSAGE_TOOK_LONG_ENOUGH
-LANG_RUSSIAN		"Слишком долго!"
+LANG_RUSSIAN		"Г‘Г«ГЁГёГЄГ®Г¬ Г¤Г®Г«ГЈГ®!"
 
 REFERENCE			QUICKMESSAGE_YOURE_CRAZY
-LANG_RUSSIAN		"Ты чокнутый!"
+LANG_RUSSIAN		"Г’Г» Г·Г®ГЄГ­ГіГІГ»Г©!"
 
 REFERENCE			QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
-LANG_RUSSIAN		"Ты сошел с ума?"
+LANG_RUSSIAN		"Г’Г» Г±Г®ГёГҐГ« Г± ГіГ¬Г ?"
 
 REFERENCE			QUICKMESSAGE_YOURE_NUTS
-LANG_RUSSIAN		"Ты спятил!"
+LANG_RUSSIAN		"Г’Г» Г±ГЇГїГІГЁГ«!"
 
 REFERENCE			QUICKMESSAGE_ARE_YOU_CRAZY
-LANG_RUSSIAN		"Ты чокнутый?"
+LANG_RUSSIAN		"Г’Г» Г·Г®ГЄГ­ГіГІГ»Г©?"
 
 REFERENCE			QUICKMESSAGE_2_MULTIPLE_CONTACTS
-LANG_RUSSIAN		"2. Множественный контакт!"
+LANG_RUSSIAN		"2. ГЊГ­Г®Г¦ГҐГ±ГІГўГҐГ­Г­Г»Г© ГЄГ®Г­ГІГ ГЄГІ!"
 
 REFERENCE			QUICKMESSAGE_5_WATCH_SIX
-LANG_RUSSIAN		"5. Будь начеку!"
+LANG_RUSSIAN		"5. ГЃГіГ¤Гј Г­Г Г·ГҐГЄГі!"
 
 REFERENCE			QUICKMESSAGE_ENEMIES_SPOTTED
-LANG_RUSSIAN		"Множественный контакт!"
+LANG_RUSSIAN		"ГЊГ­Г®Г¦ГҐГ±ГІГўГҐГ­Г­Г»Г© ГЄГ®Г­ГІГ ГЄГІ!"
 
 REFERENCE			QUICKMESSAGE_WATCH_SIX
-LANG_RUSSIAN		"Будь начеку!"
+LANG_RUSSIAN		"ГЃГіГ¤Гј Г­Г Г·ГҐГЄГі!"
 
 REFERENCE			QUICKMESSAGE_COME_ON
-LANG_RUSSIAN		"Пошли."
+LANG_RUSSIAN		"ГЏГ®ГёГ«ГЁ."
 
 REFERENCE			PLATFORM_DYK_IW4_MSG40
-LANG_RUSSIAN		"Ваши матчи автоматически записываются. Мы можете просмотреть их в театре."
+LANG_RUSSIAN		"Г‚Г ГёГЁ Г¬Г ГІГ·ГЁ Г ГўГІГ®Г¬Г ГІГЁГ·ГҐГ±ГЄГЁ Г§Г ГЇГЁГ±Г»ГўГ ГѕГІГ±Гї. ГЊГ» Г¬Г®Г¦ГҐГІГҐ ГЇГ°Г®Г±Г¬Г®ГІГ°ГҐГІГј ГЁГµ Гў ГІГҐГ ГІГ°ГҐ."
 
 REFERENCE			PLATFORM_DYK_IW4_MSG41
-LANG_RUSSIAN		"Не хочешь прокачиваться? Нажми на кнопку разблокировки в казарме."
+LANG_RUSSIAN		"ГЌГҐ ГµГ®Г·ГҐГёГј ГЇГ°Г®ГЄГ Г·ГЁГўГ ГІГјГ±Гї? ГЌГ Г¦Г¬ГЁ Г­Г  ГЄГ­Г®ГЇГЄГі Г°Г Г§ГЎГ«Г®ГЄГЁГ°Г®ГўГЄГЁ Гў ГЄГ Г§Г Г°Г¬ГҐ."
 
 REFERENCE			PLATFORM_DYK_IW4_MSG42
-LANG_RUSSIAN		"Проверьте магазин на наличие нового загружаемого контента."
+LANG_RUSSIAN		"ГЏГ°Г®ГўГҐГ°ГјГІГҐ Г¬Г ГЈГ Г§ГЁГ­ Г­Г  Г­Г Г«ГЁГ·ГЁГҐ Г­Г®ГўГ®ГЈГ® Г§Г ГЈГ°ГіГ¦Г ГҐГ¬Г®ГЈГ® ГЄГ®Г­ГІГҐГ­ГІГ ."
 
 REFERENCE			PLATFORM_DYK_IW4_MSG43
-LANG_RUSSIAN		"Вы можете увеличить угол обзора в настройках графики."
+LANG_RUSSIAN		"Г‚Г» Г¬Г®Г¦ГҐГІГҐ ГіГўГҐГ«ГЁГ·ГЁГІГј ГіГЈГ®Г« Г®ГЎГ§Г®Г°Г  Гў Г­Г Г±ГІГ°Г®Г©ГЄГ Гµ ГЈГ°Г ГґГЁГЄГЁ."
 
 REFERENCE			PLATFORM_DYK_IW4_MSG44
-LANG_RUSSIAN		"Если вы любите этот сервер, вы можете добавить его в избранное."
+LANG_RUSSIAN		"Г…Г±Г«ГЁ ГўГ» Г«ГѕГЎГЁГІГҐ ГЅГІГ®ГІ Г±ГҐГ°ГўГҐГ°, ГўГ» Г¬Г®Г¦ГҐГІГҐ Г¤Г®ГЎГ ГўГЁГІГј ГҐГЈГ® Гў ГЁГ§ГЎГ°Г Г­Г­Г®ГҐ."
 
 REFERENCE			PERKS_PAINKILLER
-LANG_RUSSIAN		"Заряженный"
+LANG_RUSSIAN		"Г‡Г Г°ГїГ¦ГҐГ­Г­Г»Г©"
 
 REFERENCE			PERKS_DESC_COMBATHIGH
-LANG_RUSSIAN		"Двигайтесь быстрее на несколько секунд после возрождения."
+LANG_RUSSIAN		"Г„ГўГЁГЈГ Г©ГІГҐГ±Гј ГЎГ»Г±ГІГ°ГҐГҐ Г­Г  Г­ГҐГ±ГЄГ®Г«ГјГЄГ® Г±ГҐГЄГіГ­Г¤ ГЇГ®Г±Г«ГҐ ГўГ®Г§Г°Г®Г¦Г¤ГҐГ­ГЁГї."
 
 REFERENCE			PERKS_COMBATHIGH
-LANG_RUSSIAN		"Заряженный"
+LANG_RUSSIAN		"Г‡Г Г°ГїГ¦ГҐГ­Г­Г»Г©"
 
 REFERENCE			SPLASHES_COMBATHIGH_DESC
-LANG_RUSSIAN		"Двигайтесь быстрее на несколько секунд после возрождения."
+LANG_RUSSIAN		"Г„ГўГЁГЈГ Г©ГІГҐГ±Гј ГЎГ»Г±ГІГ°ГҐГҐ Г­Г  Г­ГҐГ±ГЄГ®Г«ГјГЄГ® Г±ГҐГЄГіГ­Г¤ ГЇГ®Г±Г«ГҐ ГўГ®Г§Г°Г®Г¦Г¤ГҐГ­ГЁГї."
+
+REFERENCE			MENU_GPAD_STYLE
+LANG_RUSSIAN		"Г‘ГІГЁГ«Гј ГЄГ­Г®ГЇГ®ГЄ."
+
+REFERENCE			MPUI_DESC_GPAD_STYLE
+LANG_RUSSIAN		"Г’ГЁГЇ ГЄГ­Г®ГЇГ®ГЄ."
+
+REFERENCE           MENU_GPAD_XBOX_CAPS
+LANG_RUSSIAN        "Xbox"
+
+REFERENCE           MENU_GPAD_PS_CAPS
+LANG_RUSSIAN        "PlayStation"
+
+REFERENCE           MENU_SLOWDOWN_ENABLED
+LANG_RUSSIAN        "Г‚ГЄГ«ГѕГ·ГЁГІГј Г§Г Г¬ГҐГ¤Г«ГҐГ­ГЁГҐ Г ГЁГ¬ Г Г±Г±ГЁГ±ГІГ "
+
+REFERENCE           MENU_GAMEPAD
+LANG_RUSSIAN        "ГѓГҐГ©Г¬ГЇГ Г¤"
+
+REFERENCE           MENU_GAMEPAD_ENABLED
+LANG_RUSSIAN        "ГѓГҐГ©Г¬ГЇГ Г¤ ГўГЄГ«ГѕГ·ГҐГ­"
+
+REFERENCE           MPUI_DESC_GAMEPAD_ENABLED
+LANG_RUSSIAN        "ГЏГ°ГЁГ­ГЁГ¬Г ГІГј Г±ГЁГЈГ­Г Г« Г®ГІ ГЈГҐГ©Г¬ГЇГ Г¤Г  ГўГЄГ«/ГўГ»ГЄГ«"
+
+REFERENCE           MPUI_DESC_LOOK_INVERSION
+LANG_RUSSIAN        "Г€Г­ГўГҐГ°ГІГЁГ°Г®ГўГ ГІГј ГіГЇГ°Г ГўГ«ГҐГ­ГЁГҐ ГЈГҐГ©Г¬ГЇГ Г¤Г (ГўГ­ГЁГ§/ГўГўГҐГ°Гµ)"
+
+REFERENCE           FONT_ICON_SEARCH_START_WITH
+LANG_RUSSIAN        "Font icons starting with ^2&&1^7:"
+
+REFERENCE           FONT_ICON_HINT_AUTO_COMPLETE
+LANG_RUSSIAN        "Press ^3&&1 ^7for autocomplete"
+
+REFERENCE           FONT_ICON_HINT_MODIFIER
+LANG_RUSSIAN        "Use ^3&&1 ^7for modifiers"
+
+REFERENCE           FONT_ICON_MODIFIER_LIST_HEADER
+LANG_RUSSIAN        "The following modifiers are available:"
+
+REFERENCE           FONT_ICON_MODIFIER_LIST_FLIP_HORIZONTAL
+LANG_RUSSIAN        "^2&&1  ^7Flip icon horizontally"
+
+REFERENCE           FONT_ICON_MODIFIER_LIST_FLIP_VERTICAL
+LANG_RUSSIAN        "^2&&1  ^7Flip icon vertically"
+
+REFERENCE           FONT_ICON_MODIFIER_LIST_BIG
+LANG_RUSSIAN        "^2&&1  ^7Bigger icon"
+
+REFERENCE           MPUI_DESC_LOCKON_ENABLED
+LANG_RUSSIAN        "Г‡Г ГЄГ°ГҐГЇГЁГІГј ГЄГ Г¬ГҐГ°Гі ГЈГҐГ©Г¬ГЇГ Г¤Г  Г­Г  ГЁГЈГ°Г®ГЄГҐ(ГўГЄГ«/ГўГ»ГЄГ«)"
+
+REFERENCE           MENU_LOOK_SENSITIVITY_PRESET
+LANG_RUSSIAN        "Г’ГЁГЇ Г—ГіГўГ±ГІГўГЁГІГҐГ«ГјГ­Г®Г±ГІГЁ"
+
+REFERENCE           MENU_SENSITIVITY_LOW_CAPS
+LANG_RUSSIAN        "(ГЌГЁГ§ГЄГЁГ©) 1"
+
+REFERENCE           MENU_SENSITIVITY_MEDIUM_CAPS
+LANG_RUSSIAN        "(Г‘Г°ГҐГ¤Г­ГЁГ©) 2"
+
+REFERENCE           MENU_SENSITIVITY_HIGH_CAPS
+LANG_RUSSIAN        "(Г‚Г»Г±Г®ГЄГЁГ©) 4"
+
+REFERENCE           MENU_SENSITIVITY_VERY_HIGH_CAPS
+LANG_RUSSIAN        "(ГЋГ·ГҐГ­Гј Г‚Г»Г±Г®ГЄГЁГ©) 7"
+
+REFERENCE           MENU_SENSITIVITY_INSANE_CAPS
+LANG_RUSSIAN        "(ГЌГҐГўГ®Г§Г¬Г®Г¦Г­Г»Г©) 10"
 
 ENDMARKER
