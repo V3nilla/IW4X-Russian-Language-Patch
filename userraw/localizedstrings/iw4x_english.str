@@ -638,10 +638,10 @@ REFERENCE			MENU_AUTORECORD_CAPS
 LANG_RUSSIAN		"ÀÂÒÎÌÀÒÈ×ÅÑÊÀß ÇÀÏÈÑÜ"
 
 REFERENCE			MENU_DEMOS_KEEP
-LANG_RUSSIAN		"×èñëî ìàêñ. êîëè÷åñòâà ìàò÷åé"
+LANG_RUSSIAN		"Êîëè÷åñòâî Ìàò÷åé"
 
 REFERENCE			MENU_DEMOS_KEEP_CAPS
-LANG_RUSSIAN		"×ÈÑËÎ ÌÀÊÑ. ÊÎËÈ×ÅÑÒÂÀ ÌÀÒ×ÅÉ"
+LANG_RUSSIAN		"ÊÎËÈ×ÅÑÒÂÎ ÌÀÒ×ÅÉ"
 
 REFERENCE			MPUI_DEMO_AUTHOR
 LANG_RUSSIAN		"Àâòîð:"
